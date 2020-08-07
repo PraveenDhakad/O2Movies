@@ -1,0 +1,70 @@
+<?php
+/*
+* -------------------------------------------------------------------------------------
+* @author: Doothemes
+* @author URI: https://doothemes.com/
+* @aopyright: (c) 2018 Doothemes. All rights reserved
+* -------------------------------------------------------------------------------------
+*
+* @since 2.1.8
+*
+*/
+
+// Compose Module Data
+$items = cs_get_option('topimdbitems','10');
+$layou = cs_get_option('topimdblayout','movtv');
+$tpage = doo_compose_pagelink('pagetopimdb');
+
+// Query for Movies
+$query_movies = array(
+	'post_type'    => array('movies'),
+	'showposts'    => $items,
+	'meta_key'     => 'end_time',
+	'meta_compare' => '>=',
+	'meta_value'   => time(),
+	'meta_key'     => 'imdbRating',
+	'orderby'      => 'meta_value_num',
+	'order'        => 'DESC'
+);
+
+// Query for TV Shows
+$query_tvshows = array(
+	'post_type'    => array('tvshows'),
+	'showposts'    => $items,
+	'meta_key'     => 'end_time',
+	'meta_compare' => '>=',
+	'meta_value'   => time(),
+	'meta_key' 	   => 'imdbRating',
+	'orderby' 	   => 'meta_value_num',
+	'order' 	   => 'DESC'
+);
+
+// Compose Templates
+switch($layou){
+
+	case 'movtv':
+		echo "<div class='top-imdb-list tleft'>";
+		echo "<h3>".__d('TOP Movies')." <a class='see_all' href='{$tpage}'>".__d('See all')."</a></h3>";
+		query_posts($query_movies); $num = 1; { while(have_posts()){ the_post(); doo_topimdb_item($num); $num++; } } wp_reset_query();
+		echo "</div><div class='top-imdb-list tright'>";
+		echo "<h3>".__d('TOP TVShows')." <a class='see_all' href='{$tpage}'>".__d('See all')."</a></h3>";
+		query_posts($query_tvshows); $num = 1; { while(have_posts()){ the_post(); doo_topimdb_item($num); $num++; } } wp_reset_query();
+		echo "</div>";
+	break;
+
+	case 'movie':
+		echo "<div class='top-imdb-list fix-layout-top'>";
+		echo "<h3>".__d('TOP Movies')." <a class='see_all' href='{$tpage}'>".__d('See all')."</a></h3>";
+		query_posts($query_movies); $num = 1; { while(have_posts()){ the_post(); doo_topimdb_item($num); $num++; } } wp_reset_query();
+		echo "</div>";
+	break;
+
+	case 'tvsho':
+		echo "<div class='top-imdb-list fix-layout-top'>";
+		echo "<h3>".__d('TOP TVShows')." <a class='see_all' href='{$tpage}'>".__d('See all')."</a></h3>";
+		query_posts($query_tvshows); $num = 1; { while(have_posts()){ the_post(); doo_topimdb_item($num); $num++; } } wp_reset_query();
+		echo "</div>";
+	break;
+}
+
+// End Module TOP IMDb

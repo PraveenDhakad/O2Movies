@@ -1,0 +1,5341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DooPlay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-09 15:41-0500\n"
+"PO-Revision-Date: 2018-12-09 15:41-0500\n"
+"Last-Translator: Brendha Mayuri <info@doothemes.com>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: _d;__d\n"
+
+#: 404.php:16
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+#: 404.php:19
+msgid "ERROR"
+msgstr ""
+
+#: 404.php:20 pages/letter.php:7 pages/search.php:63
+msgid "Suggestions"
+msgstr "Vorschläge"
+
+#: 404.php:22
+msgid "Verify that the link is correct."
+msgstr "Überprüfe ob der Link korrekt ist."
+
+#: 404.php:23
+msgid "Use the search box on the page."
+msgstr "Verwende das Suchfeld auf der Seite."
+
+#: 404.php:24
+msgid "Contact support page."
+msgstr "Support über das Kontaktformular kontaktieren."
+
+#: archive-episodes.php:14
+#: inc/core/doothemes/codestar/config/dooplay.options.php:445
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2050
+#: inc/includes/series/episodios/metabox.php:18
+#: inc/includes/series/episodios/tipo.php:17
+#: inc/includes/series/episodios/tipo.php:18
+#: inc/includes/series/episodios/tipo.php:27 inc/includes/slugs.php:29
+#: inc/parts/single/series.php:85 inc/parts/single/series.php:153
+#: inc/parts/single/temporadas.php:72 inc/widgets/content_widget.php:79
+msgid "Episodes"
+msgstr ""
+
+#: archive-movies.php:16 archive-requests.php:19 inc/core/dbmovies/page.php:91
+#: inc/core/doothemes/codestar/config/dooplay.options.php:421
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1533
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1816
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1825
+#: inc/includes/peliculas/tipo.php:15 inc/includes/peliculas/tipo.php:16
+#: inc/includes/peliculas/tipo.php:17 inc/includes/peliculas/tipo.php:18
+#: inc/includes/peliculas/tipo.php:19 inc/includes/peliculas/tipo.php:28
+#: inc/includes/slugs.php:26 inc/parts/modules/top-imdb-page.php:48
+#: inc/parts/modules/top-imdb-page.php:58 inc/parts/single/peliculas.php:168
+#: inc/widgets/content_widget.php:77 inc/widgets/content_widget_home.php:113
+#: pages/rating.php:24 pages/trending.php:25
+msgid "Movies"
+msgstr "Filme"
+
+#: archive-requests.php:15
+msgid "Requests List"
+msgstr ""
+
+#: archive-requests.php:16
+msgid "+ Add new"
+msgstr ""
+
+#: archive-requests.php:17 pages/sections/account.php:95
+msgid "Go back"
+msgstr ""
+
+#: archive-requests.php:20 inc/includes/slugs.php:27
+#: inc/parts/modules/top-imdb-page.php:51
+#: inc/parts/modules/top-imdb-page.php:65
+msgid "TVShows"
+msgstr ""
+
+#: archive-requests.php:23 inc/widgets/content_widget_home.php:112
+msgid "All"
+msgstr ""
+
+#: archive-requests.php:30
+msgid "Search a title.."
+msgstr ""
+
+#: archive-requests.php:40
+msgid "Find a title you want to suggest"
+msgstr ""
+
+#: archive-requests.php:53
+msgid "Soon"
+msgstr ""
+
+#: archive-seasons.php:14
+#: inc/core/doothemes/codestar/config/dooplay.options.php:437
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1975
+#: inc/includes/series/temporadas/tipo.php:18
+#: inc/includes/series/temporadas/tipo.php:19
+#: inc/includes/series/temporadas/tipo.php:28 inc/includes/series/tipo.php:61
+#: inc/includes/slugs.php:28 inc/parts/single/series.php:148
+msgid "Seasons"
+msgstr ""
+
+#: archive-tvshows.php:16 inc/core/dbmovies/page.php:92
+#: inc/core/doothemes/codestar/config/dooplay.options.php:429
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1535
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1891
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1900
+#: inc/includes/series/tipo.php:19 inc/includes/series/tipo.php:20
+#: inc/parts/single/series.php:177 inc/widgets/content_widget.php:78
+#: inc/widgets/content_widget_home.php:114
+msgid "TV Shows"
+msgstr ""
+
+#: author.php:35 pages/sections/account.php:32
+msgid "You haven't written anything about yourself"
+msgstr "Du hast noch nichts über dich geschrieben"
+
+#: author.php:40 author.php:60 pages/sections/account.php:37
+#: pages/sections/account.php:57
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: author.php:44 author.php:86 inc/includes/metabox.php:37
+#: inc/includes/peliculas/tipo.php:59 inc/includes/series/episodios/tipo.php:57
+#: inc/includes/series/temporadas/tipo.php:63 inc/includes/series/tipo.php:62
+#: inc/parts/single/post.php:25 pages/sections/account.php:41
+msgid "Views"
+msgstr "Aufrufe"
+
+#: author.php:48 author.php:61 inc/doo_links.php:98 inc/doo_links.php:99
+#: inc/doo_links.php:101 inc/doo_links.php:102 inc/doo_links.php:111
+#: inc/doo_links.php:379 inc/doo_links.php:380 inc/doo_links.php:381
+#: inc/includes/slugs.php:30 inc/parts/single/links.php:4
+#: inc/parts/single/peliculas.php:97 pages/sections/account.php:45
+#: pages/sections/account.php:59
+msgid "Links"
+msgstr ""
+
+#: author.php:52 inc/core/doothemes/codestar/config/dooplay.options.php:707
+#: pages/sections/account.php:49
+msgid "Comments"
+msgstr "Kommentare"
+
+#: author.php:63
+msgid "Edit Profile"
+msgstr ""
+
+#: author.php:74 author.php:97 pages/sections/account.php:72
+#: pages/sections/account.php:84 pages/sections/account.php:118
+#: pages/sections/account.php:140
+msgid "Load more"
+msgstr "Zeige mehr"
+
+#: author.php:83 inc/includes/requests/tipo.php:59
+#: inc/parts/links_editor.php:44 inc/parts/links_editor_type.php:13
+#: inc/parts/player_editor.php:7 inc/parts/single/links.php:33
+msgid "Type"
+msgstr "Art"
+
+#: author.php:84 inc/doo_links.php:709 inc/parts/links_editor.php:45
+#: pages/sections/account.php:103 pages/sections/account.php:127
+msgid "Server"
+msgstr "Filehoster"
+
+#: author.php:85 inc/parts/player_editor.php:6
+#: inc/widgets/content_widget_home.php:106 pages/sections/account.php:104
+#: pages/sections/account.php:128
+msgid "Title"
+msgstr "Name"
+
+#: author.php:87 inc/core/doothemes/codestar/config/dooplay.options.php:1018
+#: inc/doo_init.php:208 inc/doo_links.php:566 inc/doo_links.php:711
+#: inc/includes/slugs.php:38 inc/parts/links_editor.php:47
+#: inc/parts/links_editor_type.php:49 inc/parts/single/links.php:35
+#: pages/sections/account.php:107
+msgid "Quality"
+msgstr "Qualität"
+
+#: author.php:88 inc/core/doothemes/codestar/config/dooplay.options.php:1019
+#: inc/doo_links.php:567 inc/doo_links.php:710 inc/parts/links_editor.php:46
+#: inc/parts/links_editor_type.php:39 inc/parts/single/links.php:36
+#: pages/sections/account.php:106
+msgid "Language"
+msgstr "Sprache"
+
+#: author.php:89 inc/core/doothemes/codestar/config/dooplay.options.php:1022
+#: inc/doo_links.php:570 inc/parts/links_editor.php:51
+#: pages/sections/account.php:108
+msgid "Added"
+msgstr "Hinzugefügt"
+
+#: category.php:17
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: category.php:39 inc/parts/modules/blog.php:48 pages/blog.php:46 tag.php:40
+#, fuzzy
+#| msgid "No results to show with"
+msgid "No posts to show"
+msgstr "Keine Ergebnisse für"
+
+#: comments.php:21
+#, php-format
+msgid "(1) comment"
+msgid_plural "(%1$s) comments"
+msgstr[0] "(1) Kommentar"
+msgstr[1] "(%1$s) Kommentare"
+
+#: comments.php:32
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:22
+#, php-format
+msgid "%s %s by %s. All Rights Reserved. Powered by %s"
+msgstr ""
+
+#: footer.php:72
+msgid "‹"
+msgstr ""
+
+#: footer.php:73
+msgid "›"
+msgstr ""
+
+#: footer.php:74
+msgid "×"
+msgstr ""
+
+#: header.php:44
+msgid "Generating data.."
+msgstr ""
+
+#: header.php:45
+msgid "Please wait, not close this page to complete the upload"
+msgstr ""
+
+#: header.php:61 header.php:96 inc/core/dbmovies/page.php:131
+#: pages/search.php:7 searchform.php:2
+msgid "Search..."
+msgstr "Suche..."
+
+#: header.php:71 header.php:112
+msgid "Sign out"
+msgstr "Ausloggen"
+
+#: header.php:108
+msgid "My account"
+msgstr ""
+
+#: header.php:117
+msgid "Login"
+msgstr ""
+
+#: header.php:118
+#, fuzzy
+#| msgid "Sign out"
+msgid "Sign Up"
+msgstr "Ausloggen"
+
+#: inc/core/dbmovies/assets.php:29 inc/doo_ajax.php:22 inc/doo_assets.php:59
+#: inc/parts/modules/episodes.php:43
+#: inc/parts/modules/featured-post-movies.php:43
+#: inc/parts/modules/featured-post-tvshows.php:43
+#: inc/parts/modules/featured-post.php:44 inc/parts/modules/movies.php:44
+#: inc/parts/modules/seasons.php:43 inc/parts/modules/tvshows.php:44
+#: inc/widgets/content_widget_home.php:47
+msgid "Loading.."
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:30
+msgid "This content already exists in the database"
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:31
+msgid "Completed process"
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:32 inc/core/dbmovies/init.php:376
+#: inc/doo_auth.php:122 pages/sections/dt_foot.php:6
+msgid "Unknown error"
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:33
+msgid "Getting data.."
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:34 inc/core/dbmovies/page.php:81
+msgid "Save"
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:35
+msgid "Saving.."
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:36 inc/core/dbmovies/page.php:132
+msgid "Search"
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:37
+msgid "Filtering.."
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:38 inc/core/dbmovies/page.php:123
+msgid "Filter"
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:61 inc/core/dbmovies/assets.php:80
+#: inc/core/dbmovies/assets.php:98 inc/core/dbmovies/assets.php:116
+#: inc/core/doothemes/codestar/functions/actions.php:62 inc/doo_assets.php:81
+#: pages/sections/dt_foot.php:7
+msgid "Loading..."
+msgstr ""
+
+#: inc/core/dbmovies/assets.php:97 inc/core/dbmovies/importers.php:585
+#: inc/core/doothemes/codestar/config/dooplay.options.php:439
+msgid "{name}: Season {season}"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:33
+msgid "Dbmovies license"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:34 inc/core/dbmovies/page.php:38
+msgid "Dbmovies for DooPlay"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:35
+msgid ""
+"It is important to have a valid product license, keep the file updated and "
+"access exclusive content."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:37
+msgid "Access to all updates."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:38
+msgid "Access to dedicated support."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:39
+msgid "Access to all dbmovies tools."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:40
+msgid "Compatibility with our themes."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:41
+msgid "Security Guaranteed."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:47
+msgid "Filtering Content"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:48
+msgid ""
+"You can filter content by year of release, if the field where text of the "
+"year is empty, will give you results with the most popular content, you can "
+"also add the filter by genres and sort by popularity order."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:53
+msgid "Searching content"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:54
+msgid ""
+"In the search field, you can add a specific title that you want to find, you "
+"will find results with the names of actors or directors, it is limited to "
+"search titles of movies or TV series."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:59
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:60
+msgid "You can use some shortcuts with the keyboard to make the job easier."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:62
+msgid "Access plugin settings."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:63
+msgid "It frees the screen of any popup window."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:64
+msgid "Go to next page in the results"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:65
+msgid "Return to previous page in the results."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:72
+msgid "Error codes"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:75
+msgid "Access denied."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:76
+#, fuzzy
+#| msgid "Page not found"
+msgid "API key not found."
+msgstr "Seite nicht gefunden"
+
+#: inc/core/dbmovies/helptabs.php:77
+msgid "Internal server error."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:78
+msgid "Application in maintenance."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:79
+msgid "Exceeded request limit."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:86
+msgid "Request limits"
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:87
+msgid ""
+"We recommend that you do not exceed the established server request limits."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:90
+msgid "domain per license key."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:91
+msgid "requests per second."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:92
+msgid "requests per minute."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:93
+msgid "requests per hour."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:94
+msgid "requests per day."
+msgstr ""
+
+#: inc/core/dbmovies/helptabs.php:96
+msgid ""
+"<strong>NOTE:</strong> Do not share your license key, remember that it can "
+"only be used for your domain."
+msgstr ""
+
+#: inc/core/dbmovies/importers.php:192 inc/core/dbmovies/requests.php:170
+#: inc/includes/requests/tipo.php:78 inc/parts/item_b.php:11
+#: pages/search.php:32
+msgid "Movie"
+msgstr "Film"
+
+#: inc/core/dbmovies/importers.php:192 inc/core/dbmovies/importers.php:394
+#: inc/doo_links.php:592 inc/doo_links.php:646 inc/doo_links.php:686
+#: inc/parts/item_links.php:42 inc/parts/item_links_admin.php:38
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/core/dbmovies/importers.php:195 inc/core/dbmovies/importers.php:397
+msgid "Unexpected error"
+msgstr ""
+
+#: inc/core/dbmovies/importers.php:394 inc/parts/item_b.php:11
+#: pages/search.php:33
+msgid "TV"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:57
+#, fuzzy
+#| msgid "Movies"
+msgid "Dbmovies"
+msgstr "Filme"
+
+#: inc/core/dbmovies/init.php:57
+#, fuzzy
+#| msgid "Movies"
+msgid "dbmovies"
+msgstr "Filme"
+
+#: inc/core/dbmovies/init.php:109 inc/core/dbmovies/init.php:148
+#: inc/core/dbmovies/init.php:199 inc/core/dbmovies/init.php:239
+msgid "prev"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:111 inc/core/dbmovies/init.php:150
+#: inc/core/dbmovies/init.php:201 inc/core/dbmovies/init.php:241
+msgid "next"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:114 inc/core/dbmovies/init.php:205
+#, php-format
+msgid "%s results in %s seconds"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:120 inc/core/dbmovies/init.php:212
+#: inc/core/dbmovies/requests.php:46 inc/doo_ajax.php:360 inc/doo_ajax.php:409
+msgid "No results"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:372
+msgid "Invalid License"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:547
+msgid "votes"
+msgstr "Bewertungen"
+
+#: inc/core/dbmovies/init.php:595 inc/core/dbmovies/init.php:622
+msgid "All genres"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:596
+msgid "Action"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:597
+msgid "Adventure"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:598 inc/core/dbmovies/init.php:624
+msgid "Animation"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:599 inc/core/dbmovies/init.php:625
+msgid "Comedy"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:600 inc/core/dbmovies/init.php:626
+msgid "Crime"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:601 inc/core/dbmovies/init.php:627
+msgid "Documentary"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:602 inc/core/dbmovies/init.php:628
+msgid "Drama"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:603 inc/core/dbmovies/init.php:629
+msgid "Family"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:604
+msgid "Fantasy"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:605
+msgid "History"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:606
+msgid "Horror"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:607
+msgid "Music"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:608 inc/core/dbmovies/init.php:631
+msgid "Mystery"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:609
+msgid "Romance"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:610
+msgid "Science Fiction"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:611
+#, fuzzy
+#| msgid "Movie"
+msgid "TV Movie"
+msgstr "Film"
+
+#: inc/core/dbmovies/init.php:612
+msgid "Thriller"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:613
+msgid "War"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:614 inc/core/dbmovies/init.php:638
+msgid "Western"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:623
+msgid "Action & Adventure"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:630
+msgid "Kids"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:632
+msgid "News"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:633
+#, fuzzy
+#| msgid "Quality"
+msgid "Reality"
+msgstr "Qualität"
+
+#: inc/core/dbmovies/init.php:634
+msgid "Sci-Fi & Fantasy"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:635
+msgid "Soap"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:636
+msgid "Talk"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:637
+msgid "War & Politics"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:646
+#: inc/core/doothemes/codestar/config/dooplay.options.php:757
+msgid "Arabic"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:647
+#: inc/core/doothemes/codestar/config/dooplay.options.php:765
+msgid "Bosnian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:648
+#: inc/core/doothemes/codestar/config/dooplay.options.php:762
+msgid "Bulgarian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:649
+#: inc/core/doothemes/codestar/config/dooplay.options.php:806
+msgid "Croatian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:650
+#: inc/core/doothemes/codestar/config/dooplay.options.php:770
+msgid "Czech"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:651
+#: inc/core/doothemes/codestar/config/dooplay.options.php:773
+msgid "Danish"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:652
+#: inc/core/doothemes/codestar/config/dooplay.options.php:843
+#: inc/doo_player.php:46
+msgid "Dutch"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:653 inc/doo_player.php:47
+msgid "English"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:654
+#: inc/core/doothemes/codestar/config/dooplay.options.php:793
+msgid "Finnish"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:655 inc/doo_player.php:50
+msgid "French"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:656
+#: inc/core/doothemes/codestar/config/dooplay.options.php:774
+#: inc/doo_player.php:51
+msgid "German"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:657
+#: inc/core/doothemes/codestar/config/dooplay.options.php:775
+msgid "Greek"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:658
+#: inc/core/doothemes/codestar/config/dooplay.options.php:804
+msgid "Hebrew"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:659
+#: inc/core/doothemes/codestar/config/dooplay.options.php:807
+msgid "Hungarian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:660
+#: inc/core/doothemes/codestar/config/dooplay.options.php:811
+msgid "Icelandic"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:661
+#: inc/core/doothemes/codestar/config/dooplay.options.php:809
+#: inc/doo_player.php:52
+msgid "Indonesian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:662
+#: inc/core/doothemes/codestar/config/dooplay.options.php:812
+#: inc/doo_player.php:54
+msgid "Italian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:663
+#: inc/core/doothemes/codestar/config/dooplay.options.php:820
+#: inc/doo_player.php:56
+msgid "Korean"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:664
+msgid "Letzeburgesch"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:665
+#: inc/core/doothemes/codestar/config/dooplay.options.php:828
+msgid "Lithuanian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:666
+msgid "Mandarin"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:667
+#: inc/core/doothemes/codestar/config/dooplay.options.php:790
+msgid "Persian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:668
+#: inc/core/doothemes/codestar/config/dooplay.options.php:848
+#: inc/doo_player.php:60
+msgid "Polish"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:669 inc/core/dbmovies/init.php:670
+msgid "Portuguese"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:671
+#: inc/core/doothemes/codestar/config/dooplay.options.php:854
+#: inc/doo_player.php:61
+msgid "Romanian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:672
+#: inc/core/doothemes/codestar/config/dooplay.options.php:855
+msgid "Russian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:673
+#: inc/core/doothemes/codestar/config/dooplay.options.php:861
+msgid "Slovak"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:674
+msgid "Spanish"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:675
+msgid "Spanish LA"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:676
+#: inc/core/doothemes/codestar/config/dooplay.options.php:867
+msgid "Swedish"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:677
+#: inc/core/doothemes/codestar/config/dooplay.options.php:874
+msgid "Thai"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:678
+#: inc/core/doothemes/codestar/config/dooplay.options.php:878
+#: inc/doo_player.php:70
+msgid "Turkish"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:679
+msgid "Twi"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:680
+#: inc/core/doothemes/codestar/config/dooplay.options.php:881
+msgid "Ukrainian"
+msgstr ""
+
+#: inc/core/dbmovies/init.php:681
+#: inc/core/doothemes/codestar/config/dooplay.options.php:884
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:39
+#: inc/core/doothemes/codestar/config/dooplay.options.php:49
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1508
+#: inc/includes/rating/init.php:63 pages/sections/account.php:60
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/core/dbmovies/page.php:44
+msgid "Dbmovies Options"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:44
+msgid "Get license key now"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:45
+msgid "Dbmovies API key"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:46
+msgid ""
+"<strong>NOTE:</strong> Do not share this information, this key is only "
+"authorized for your website."
+msgstr ""
+
+#: inc/core/dbmovies/page.php:51
+msgid "Do you want to activate import tool?"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:55
+msgid "Themoviedb API key"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:56
+msgid "API Key"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:59
+msgid "Languague"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:69
+msgid "Upload poster image to server?"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:73
+msgid "Do you want to autocomplete genres?"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:77
+msgid "Publish content with the release date?"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:82
+msgid "Close"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:98 inc/includes/controladores/taxonomias.php:152
+#: inc/includes/controladores/taxonomias.php:153
+#: inc/includes/controladores/taxonomias.php:154
+msgid "Year"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:102
+msgid "Popularity desc"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:103
+msgid "Popularity asc"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:117 inc/doo_init.php:298
+msgid "Page"
+msgstr "Seite"
+
+#: inc/core/dbmovies/page.php:126
+#: inc/core/doothemes/codestar/config/dooplay.options.php:364
+msgid "Bulk import"
+msgstr ""
+
+#: inc/core/dbmovies/page.php:149
+msgid "Get content now"
+msgstr ""
+
+#: inc/core/dbmovies/requests.php:50
+msgid "results"
+msgstr ""
+
+#: inc/core/dbmovies/requests.php:50
+msgid "in"
+msgstr ""
+
+#: inc/core/dbmovies/requests.php:50 inc/widgets/content_widget_home.php:136
+#: inc/widgets/content_widget_home.php:137
+#: inc/widgets/content_widget_home.php:138
+#: inc/widgets/content_widget_home.php:139
+msgid "seconds"
+msgstr ""
+
+#: inc/core/dbmovies/requests.php:76
+msgid "Request"
+msgstr ""
+
+#: inc/core/dbmovies/requests.php:76
+msgid "already exists"
+msgstr ""
+
+#: inc/core/dbmovies/requests.php:88
+#, fuzzy
+#| msgid "Verification code"
+msgid "Error verification nonce"
+msgstr "Bestätigungscode"
+
+#: inc/core/dbmovies/requests.php:92
+msgid "Please <a class=\"clicklogin\">sign in</a> to continue"
+msgstr ""
+
+#: inc/core/dbmovies/requests.php:171
+msgid "TVShow"
+msgstr ""
+
+#: inc/core/doothemes/class.php:93
+msgid "Dooplay license"
+msgstr ""
+
+#: inc/core/doothemes/class.php:116
+msgid "requires a valid license to activate all functions."
+msgstr ""
+
+#: inc/core/doothemes/class.php:118 inc/core/doothemes/class.php:162
+#: inc/parts/admin/database_tool.php:37
+msgid "Activate license"
+msgstr ""
+
+#: inc/core/doothemes/class.php:122
+msgid "Details"
+msgstr ""
+
+#: inc/core/doothemes/class.php:135
+msgid "License"
+msgstr ""
+
+#: inc/core/doothemes/class.php:148
+msgid "License activated, thanks."
+msgstr ""
+
+#: inc/core/doothemes/class.php:150
+msgid "Activate your license to install future updates."
+msgstr ""
+
+#: inc/core/doothemes/class.php:154
+#: inc/core/doothemes/codestar/classes/framework.class.php:279
+#: inc/core/doothemes/codestar/classes/framework.class.php:341
+#: inc/doo_links.php:239 inc/parts/admin/ads_tool.php:65
+msgid "Save changes"
+msgstr ""
+
+#: inc/core/doothemes/class.php:160
+msgid "Deactivate license"
+msgstr ""
+
+#: inc/core/doothemes/class.php:170
+msgid "License status"
+msgstr ""
+
+#: inc/core/doothemes/class.php:171
+msgid "Customer name"
+msgstr ""
+
+#: inc/core/doothemes/class.php:172
+msgid "Customer email"
+msgstr ""
+
+#: inc/core/doothemes/class.php:173
+msgid "Payment id"
+msgstr ""
+
+#: inc/core/doothemes/class.php:174
+msgid "Activations limit"
+msgstr ""
+
+#: inc/core/doothemes/class.php:175
+msgid "Activations count"
+msgstr ""
+
+#: inc/core/doothemes/class.php:176
+msgid "Activations left"
+msgstr ""
+
+#: inc/core/doothemes/class.php:177
+msgid "Expires"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/framework.class.php:111
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/framework.class.php:115
+msgid "Default options restored."
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/framework.class.php:133
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/framework.class.php:278
+#: inc/parts/admin/ads_tool.php:4
+msgid "Settings saved."
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/framework.class.php:279
+#: inc/core/doothemes/codestar/classes/framework.class.php:341
+#, fuzzy
+#| msgid "Remove"
+msgid "Saving..."
+msgstr "Entfernen"
+
+#: inc/core/doothemes/codestar/classes/framework.class.php:282
+#: inc/core/doothemes/codestar/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/options.class.php:97
+msgid "CONFIG"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/options.class.php:103
+#: inc/core/doothemes/codestar/classes/options.class.php:119
+msgid "USAGE"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/options.class.php:108
+msgid "VALUE"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/options.class.php:123
+msgid "ID"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/options.class.php:175
+#, php-format
+msgid "You are editing language: ( %s )"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/shortcode.class.php:82
+#: inc/core/doothemes/codestar/classes/shortcode.class.php:90
+#: inc/core/doothemes/codestar/fields/textarea/textarea.php:27
+#, fuzzy
+#| msgid "Add row"
+msgid "Add Shortcode"
+msgstr "Link hinzufügen"
+
+#: inc/core/doothemes/codestar/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: inc/core/doothemes/codestar/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:11
+#, php-format
+msgid "%s options"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:62
+msgid "Main settings"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:70
+#, fuzzy
+#| msgid "Title"
+msgid "Site Online"
+msgstr "Name"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:71
+msgid "Keep this field activated"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:78
+msgid "Currently your website is in <strong>offline mode</strong>"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:85
+msgid "Offline Message"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:86
+msgid "We are in maintenance, please try it later"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:88
+msgid "Offline mode message here"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:97
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:98
+msgid "Insert tracking code to use this function"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:108
+msgid "Items per page"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:109
+#: inc/core/doothemes/codestar/config/dooplay.options.php:120
+msgid "Archive pages show at most"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:119
+msgid "Post per page in blog"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:130
+msgid "TOP IMDb items"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:131
+msgid "Select the number of items to the page TOP IMDb"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:141
+msgid "Pagination Range"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:142
+msgid "Set a range of items to display in the paginator"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:154
+#: pages/sections/account.php:150
+msgid "General"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:155
+#: inc/core/doothemes/codestar/config/dooplay.options.php:469
+msgid "Check whether to activate or deactivate"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:157
+#, fuzzy
+#| msgid "Links Shared"
+msgid "Live search enable"
+msgstr "Meine Links"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:158
+#, fuzzy
+#| msgid "Similar titles"
+msgid "Show similar titles enable"
+msgstr "Ähnliche Filme"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:159
+msgid "User register enable"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:160
+msgid "Emoji disable"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:161
+msgid "Remove <code>?ver=</code> parameters"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:162
+msgid "Minify HTML"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:163
+msgid "Remove HTML, Java Script and CSS Commnets"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:170
+msgid "List of seasons and episodes"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:176
+msgid "Seasons List"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:177
+msgid "Sort seasons list"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:179
+#: inc/core/doothemes/codestar/config/dooplay.options.php:191
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1620
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1753
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1875
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1950
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2025
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2100
+#: inc/widgets/content_related_widget.php:117 inc/widgets/content_widget.php:90
+msgid "Ascending"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:180
+#: inc/core/doothemes/codestar/config/dooplay.options.php:192
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1619
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1752
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1874
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1949
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2024
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2099
+#: inc/widgets/content_related_widget.php:116 inc/widgets/content_widget.php:89
+msgid "Descending"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:188
+msgid "Episodes List"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:189
+#, fuzzy
+#| msgid "No results to show with"
+msgid "Sort episodes list"
+msgstr "Keine Ergebnisse für"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:199
+msgid "Google reCAPTCHA v2"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:205
+#, fuzzy
+#| msgid "Title"
+msgid "Site key"
+msgstr "Name"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:211
+msgid "Secret key"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:216
+msgid "Get Google reCAPTCHA"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:221
+msgid "Pages for DooPlay"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:227
+#: inc/doo_database.php:87
+msgid "Account"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:228
+msgid "Set User Account page"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:235
+#: inc/doo_database.php:75 pages/trending.php:22
+msgid "Trending"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:236
+msgid "Set page to show trend content"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:243
+#: inc/doo_database.php:81 pages/rating.php:21
+msgid "Ratings"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:244
+msgid "Set page to show content rated by users"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:251
+#: inc/doo_database.php:93
+msgid "Contact"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:252
+msgid "Set page to display the contact form"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:259
+msgid "Top IMDb"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:260
+msgid "Set page to show the best qualified content in IMDb"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:267
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1539
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1637
+msgid "Blog entries"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:268
+msgid "Set page to show the entries in blog"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:274
+msgid "Database cache"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:280
+msgid "Scheduler"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:281
+msgid "Cache cleaning"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:282
+msgid "It is important to clean expired cache at least once a day"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:287
+msgid "Daily"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:288
+msgid "Twice daily"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:289
+msgid "Hourly"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:296
+msgid "Storing cache as long as possible can be a very good idea"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:303
+msgid "Cache Timeout"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:304
+msgid "Set the time in seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:306
+msgid "We recommend storing this cache for at least 86400 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:314
+msgid "Requests page"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:320
+#: inc/core/doothemes/codestar/config/dooplay.options.php:342
+msgid "Unknown user"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:321
+msgid "Unknown users can publish requests?"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:327
+msgid "Unregistered users can add content to the database"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:334
+msgid "Auto publish"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:335
+msgid "Mark user roles that do not require content moderation"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:337
+#: inc/core/doothemes/codestar/config/dooplay.options.php:988
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1003
+msgid "Administrator"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:338
+#: inc/core/doothemes/codestar/config/dooplay.options.php:989
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1004
+#, fuzzy
+#| msgid "Edit"
+msgid "Editor"
+msgstr "Edit"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:339
+#: inc/core/doothemes/codestar/config/dooplay.options.php:990
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1005
+msgid "Author"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:340
+#: inc/core/doothemes/codestar/config/dooplay.options.php:991
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1006
+#, fuzzy
+#| msgid "Contact support page."
+msgid "Contributor"
+msgstr "Support über das Kontaktformular kontaktieren."
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:341
+#: inc/core/doothemes/codestar/config/dooplay.options.php:992
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1007
+msgid "Subscriber"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:357
+#, fuzzy
+#| msgid "Movies"
+msgid "Dbmovies Plus"
+msgstr "Filme"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:370
+msgid "Safe mode"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:371
+msgid ""
+"Method safe, the process will continue only if the above process is completed"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:378
+msgid "Delay time"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:379
+msgid "Time in milliseconds to execute the next importation"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:389
+msgid "PHP Limits"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:395
+msgid "Set time limit"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:396
+msgid "Help extend the execution time"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:406
+msgid "Set memory limit"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:415
+#, fuzzy
+#| msgid "Similar titles"
+msgid "Customize titles"
+msgstr "Ähnliche Filme"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:460
+msgid "Customize"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:468
+msgid "Single background"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:470
+msgid "Enable dynamic background"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:478
+#: inc/core/doothemes/codestar/config/dooplay.options.php:910
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:479
+msgid "Select the default color scheme"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:484
+msgid "Default style"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:485
+msgid "Fusion stye"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:486
+msgid "Dark stye"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:494
+msgid "Font family"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:495
+msgid "Select font-family by Google Fonts"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:527
+msgid "Primary color"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:528
+#: inc/core/doothemes/codestar/config/dooplay.options.php:536
+#: inc/core/doothemes/codestar/config/dooplay.options.php:544
+#: inc/core/doothemes/codestar/config/dooplay.options.php:560
+#: inc/core/doothemes/codestar/config/dooplay.options.php:570
+#: inc/core/doothemes/codestar/config/dooplay.options.php:579
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1327
+msgid "Choose a color"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:535
+msgid "Background container"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:543
+#, fuzzy
+#| msgid "Similar titles"
+msgid "Featured marker"
+msgstr "Ähnliche Filme"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:551
+msgid "Fusion alternative colors"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:559
+msgid "Background header bar"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:569
+msgid "Header link color"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:578
+msgid "Header link hover color"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:587
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:597
+msgid "Add only CSS code"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:602
+msgid "Customize logos"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:608
+msgid "Logo header"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:609
+#: inc/core/doothemes/codestar/config/dooplay.options.php:630
+msgid "Upload your logo using the Upload Button"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:615
+msgid "Favicon"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:616
+msgid "Upload a 16 x 16 px image that will represent your website's favicon"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:622
+msgid "Touch icon APP"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:623
+msgid "Upload a 152 x 152 px image that will represent your Web APP"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:629
+msgid "Login / Register / WP-Admin"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:635
+msgid "Footer settings"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:641
+msgid "Footer"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:644
+msgid "Simple"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:645
+msgid "Complete"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:652
+msgid "Footer copyright"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:653
+msgid "Modify or remove copyright text"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:659
+msgid "Logo footer"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:666
+msgid "Footer text"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:667
+msgid "Text under footer logo"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:674
+msgid "Title column 1"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:675
+#: inc/core/doothemes/codestar/config/dooplay.options.php:683
+#: inc/core/doothemes/codestar/config/dooplay.options.php:691
+msgid "Footer menu"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:682
+msgid "Title column 2"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:690
+msgid "Title column 3"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:715
+#, fuzzy
+#| msgid "Comments"
+msgid "Comments system"
+msgstr "Kommentare"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:718
+msgid "WordPress"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:719
+#: inc/doo_init.php:893
+msgid "Facebook"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:720
+msgid "Disqus"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:721
+msgid "None"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:728
+#, fuzzy
+#| msgid "Comments"
+msgid "Comments on pages"
+msgstr "Kommentare"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:729
+#, fuzzy
+#| msgid "Comments"
+msgid "Allow comments on all pages?"
+msgstr "Kommentare"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:735
+msgid "Facebook comments"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:742
+msgid "App ID"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:743
+msgid "Insert you Facebook app ID"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:744
+msgid "Facebook developers"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:751
+msgid "APP language"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:752
+msgid "Select language for the app of facebook"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:754
+msgid "Afrikaans"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:755
+msgid "Akan"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:756
+msgid "Amharic"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:758
+msgid "Assamese"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:759
+msgid "Aymara"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:760
+msgid "Azerbaijani"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:761
+msgid "Belarusian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:763
+msgid "Bengali"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:764
+msgid "Breton"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:766
+msgid "Catalan"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:767
+msgid "Sorani Kurdish"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:768
+msgid "Cherokee"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:769
+msgid "Corsican"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:771
+msgid "Cebuano"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:772
+msgid "Welsh"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:776
+msgid "English (UK)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:777
+msgid "English (India)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:778
+msgid "English (Pirate)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:779
+msgid "English (Upside Down)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:780
+msgid "English (US)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:781
+msgid "Esperanto"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:782
+msgid "Spanish (Chile)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:783
+msgid "Spanish (Colombia)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:784
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:785
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:786
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:787
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:788
+msgid "Estonian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:789
+msgid "Basque"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:791
+msgid "Leet Speak"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:792
+msgid "Fulah"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:794
+msgid "Faroese"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:795
+msgid "French (Canada)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:796
+msgid "French (France)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:797
+msgid "Frisian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:798
+msgid "Irish"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:799
+msgid "Galician"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:800
+msgid "Guarani"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:801
+msgid "Gujarati"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:802
+msgid "Classical Greek"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:803
+msgid "Hausa"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:805
+#: inc/doo_player.php:53
+msgid "Hindi"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:808
+msgid "Armenian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:810
+msgid "Igbo"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:813
+#: inc/doo_player.php:55
+msgid "Japanese"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:814
+msgid "Japanese (Kansai)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:815
+msgid "Javanese"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:816
+msgid "Georgian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:817
+msgid "Kazakh"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:818
+msgid "Khmer"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:819
+msgid "Kannada"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:821
+msgid "Kurdish (Kurmanji)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:822
+msgid "Kyrgyz"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:823
+msgid "Latin"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:824
+msgid "Ganda"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:825
+msgid "Limburgish"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:826
+msgid "Lingala"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:827
+msgid "Lao"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:829
+msgid "Latvian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:830
+msgid "Malagasy"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:831
+msgid "Maori"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:832
+msgid "Macedonian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:833
+msgid "Malayalam"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:834
+msgid "Mongolian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:835
+msgid "Marathi"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:836
+msgid "Malay"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:837
+msgid "Maltese"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:838
+msgid "Burmese"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:839
+msgid "Norwegian (bokmal)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:840
+msgid "Ndebele"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:841
+msgid "Nepali"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:842
+msgid "Dutch (Belgie)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:844
+msgid "Norwegian (nynorsk)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:845
+msgid "Chewa"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:846
+msgid "Oriya"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:847
+msgid "Punjabi"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:849
+msgid "Pashto"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:850
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:851
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:852
+msgid "Quechua"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:853
+msgid "Romansh"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:856
+msgid "Kinyarwanda"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:857
+msgid "Sanskrit"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:858
+msgid "Sardinian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:859
+msgid "Northern Sami"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:860
+msgid "Sinhala"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:862
+msgid "Slovenian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:863
+msgid "Shona"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:864
+msgid "Somali"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:865
+msgid "Albanian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:866
+msgid "Serbian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:868
+msgid "Swahili"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:869
+msgid "Syriac"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:870
+msgid "Silesian"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:871
+msgid "Tamil"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:872
+msgid "Telugu"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:873
+msgid "Tajik"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:875
+msgid "Turkmen"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:876
+msgid "Filipino"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:877
+msgid "Klingon"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:879
+msgid "Tatar"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:880
+msgid "Tamazight"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:882
+msgid "Urdu"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:883
+msgid "Uzbek"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:885
+msgid "Wolof"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:886
+msgid "Xhosa"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:887
+msgid "Yiddish"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:888
+msgid "Yoruba"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:889
+msgid "Simplified Chinese (China)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:890
+msgid "Traditional Chinese (Hong Kong)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:891
+msgid "Traditional Chinese (Taiwan)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:892
+msgid "Zulu"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:893
+msgid "Zazaki"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:902
+msgid "Admin user"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:903
+msgid "Add user or user ID to manage comment"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:913
+msgid "Light color"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:914
+msgid "Dark color"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:922
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:929
+msgid "Disqus comments"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:936
+#, fuzzy
+#| msgid "First name"
+msgid "Shortname"
+msgstr "Vorname"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:937
+msgid ""
+"This is used to uniquely identify your website on Disqus. It cannot be "
+"changed"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:938
+#: inc/parts/comments.php:32
+msgid "more info"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:944
+msgid "Discussion Settings"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:957
+#, fuzzy
+#| msgid "Links Shared"
+msgid "Links Module"
+msgstr "Meine Links"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:965
+#, fuzzy
+#| msgid "Language"
+msgid "Set languages"
+msgstr "Sprache"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:966
+#: inc/core/doothemes/codestar/config/dooplay.options.php:976
+msgid "Add comma separated values"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:975
+msgid "Set resolutions quality"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:985
+msgid "Front-End Links publishers"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:986
+msgid "Check the user roles that can be published from Front-end"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1000
+msgid "Auto Publish"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1001
+msgid "Mark the roles of users who can post links without being moderated"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1015
+msgid "Show in list"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1016
+msgid "Select the items that you want to show in the links table"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1020
+#: inc/doo_links.php:568 inc/parts/links_editor.php:48
+msgid "Size"
+msgstr "Größe"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1021
+#: inc/doo_links.php:569 inc/doo_links.php:712 inc/parts/links_editor.php:49
+#: pages/sections/account.php:105 pages/sections/account.php:130
+msgid "Clicks"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1023
+#: inc/doo_links.php:571 inc/parts/links_editor.php:50
+#: pages/sections/account.php:129
+#, fuzzy
+#| msgid "Username"
+msgid "User"
+msgstr "Benutzername"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1031
+#, fuzzy
+#| msgid "Links Shared"
+msgid "Links Editor"
+msgstr "Meine Links"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1032
+msgid "Show link editor, if the main entry has not yet been published"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1038
+msgid ""
+"This is not a secure method of adding links, there is a very high "
+"probability of data loss."
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1044
+msgid "Redirection page"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1050
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1181
+msgid "Timeout"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1051
+msgid "Timeout in seconds before redirecting the page automatically"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1061
+msgid "Type Output"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1062
+msgid "Select an output type upon completion of the wait time"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1064
+msgid "Clicking on a button"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1065
+msgid "Redirecting the page automatically"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1074
+#, fuzzy
+#| msgid "About"
+msgid "Button text"
+msgstr "Über mich"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1075
+msgid "Customize the button"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1076
+#: single-dt_links.php:34
+msgid "Continue"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1083
+msgid "Text under button"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1084
+#: single-dt_links.php:35
+msgid "Click on the button to continue"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1091
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1326
+msgid "Main color"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1092
+msgid "Select a color for customize redirection page"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1099
+#, fuzzy
+#| msgid "First name"
+msgid "Shorteners"
+msgstr "Vorname"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1105
+msgid "To obtain the link, use the <code>{{url}}</code> tag"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1106
+msgid "To invalidate this function do not add any shortener"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1113
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1114
+#, fuzzy
+#| msgid "Add row"
+msgid "Add new shortener"
+msgstr "Link hinzufügen"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1136
+#: inc/doo_player.php:98 inc/doo_player.php:99 inc/parts/admin/ads_tool.php:11
+msgid "Video Player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1144
+msgid "Auto Load"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1145
+msgid "Load the first element of video player with the page"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1151
+msgid ""
+"The first element of the player will be loaded between 0 and 4 seconds after "
+"completing the total load of the page"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1158
+msgid "Auto Play"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1159
+msgid "Check if you want the videos to play automatically"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1161
+msgid "Auto-play YouTube videos"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1162
+msgid "Auto-play JWPlayer videos"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1169
+#, fuzzy
+#| msgid "File size"
+msgid "Player size"
+msgstr "Dateigröße"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1170
+msgid "Select a specific size for video player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1172
+msgid "Regular size"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1173
+#, fuzzy
+#| msgid "File size"
+msgid "Bigger size"
+msgstr "Dateigröße"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1182
+msgid "Time to wait in seconds before displaying Video Player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1191
+msgid "Fake Player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1198
+#: inc/doo_ajax.php:33 inc/parts/item_links.php:47
+#: inc/parts/item_links_admin.php:43
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1199
+msgid "Enable Fake Player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1206
+msgid "Backdrop URL"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1207
+msgid ""
+"Show background image by default if the system did not find an image in the "
+"content"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1217
+msgid "Show in Fake Player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1219
+msgid "Play button"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1220
+msgid "Notify what is an ad"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1221
+#, fuzzy
+#| msgid "Quality"
+msgid "HD Quality"
+msgstr "Qualität"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1228
+msgid "Advertising links for fake player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1234
+msgid ""
+"Add as many ad links as you wish, these are displayed randomly in the Fake "
+"Player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1241
+#, fuzzy
+#| msgid "Add widgets"
+msgid "Add link"
+msgstr "Widgets hinzufügen"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1242
+#, fuzzy
+#| msgid "Add widgets"
+msgid "Add new link"
+msgstr "Widgets hinzufügen"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1268
+#: inc/doo_database.php:111
+msgid "JW Player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1276
+#, fuzzy
+#| msgid "File size"
+msgid "JW Player version"
+msgstr "Dateigröße"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1278
+msgid "Version 8"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1279
+msgid "Version 7"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1287
+msgid "Library Url"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1288
+msgid "Cloud Hosted Player Libraries"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1296
+#: inc/core/doothemes/init.php:47
+msgid "License Key"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1297
+msgid "JW Player 7 (Self-Hosted)"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1305
+msgid "Page jwplayer"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1306
+msgid "Select page to display player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1313
+#, fuzzy
+#| msgid "About"
+msgid "About text"
+msgstr "Über mich"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1314
+msgid "JW Player About text in right click"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1320
+msgid "Customize player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1334
+msgid "Logo player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1335
+msgid "Upload your logo using the Upload Button or insert image URL"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1341
+msgid "Logo position"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1342
+msgid "Select a postion for logo player"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1344
+msgid "Top left"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1345
+msgid "Top right"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1346
+msgid "Bottom left"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1347
+msgid "Bottom right"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1363
+msgid "WP Mail"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1370
+msgid "Welcome message"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1376
+#: pages/contact.php:56
+msgid "Subject"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1377
+msgid "Welcome to {sitename}"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1383
+#: inc/doo_ajax.php:77
+msgid "Message"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1384
+msgid "Hello {username}, Thank you for registering at {sitename}"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1390
+#, fuzzy
+#| msgid "Settings"
+msgid "SMTP Settings"
+msgstr "Einstellungen"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1396
+#, fuzzy
+#| msgid "Enable"
+msgid "Enable SMTP"
+msgstr "Aktivieren"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1397
+msgid "Configure an SMTP server for WordPress to send verified emails"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1404
+#, fuzzy
+#| msgid "Server"
+msgid "SMTP Server"
+msgstr "Filehoster"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1414
+msgid "SMTP Port"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1427
+msgid "Type of Encryption"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1429
+msgid "Plain text"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1430
+msgid "SSL"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1431
+msgid "TSL"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1442
+#, fuzzy
+#| msgid "Name"
+msgid "From Name"
+msgstr "Name"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1451
+#, fuzzy
+#| msgid "Email address"
+msgid "From Email Address"
+msgstr "E-Mail-Adresse"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1459
+msgid "SMTP Authentication"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1468
+#: inc/doo_init.php:1260 inc/includes/slugs.php:25 inc/parts/login_form.php:6
+#: pages/sections/login-form.php:3 pages/sections/register-form.php:3
+msgid "Username"
+msgstr "Benutzername"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1477
+#: inc/doo_init.php:1261 inc/parts/login_form.php:7
+#: pages/sections/account.php:152 pages/sections/login-form.php:7
+#: pages/sections/register-form.php:11
+msgid "Password"
+msgstr "Passwort"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1496
+#: inc/parts/admin/ads_tool.php:9
+msgid "Homepage"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1516
+msgid "Full width"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1517
+msgid "Enable full width only in homepage"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1523
+msgid ""
+"<strong>NOTE:</strong> Drag and drop the modules in the order you want them"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1531
+msgid "Slider"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1532
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1561
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1570
+#, fuzzy
+#| msgid "Similar titles"
+msgid "Featured titles"
+msgstr "Ähnliche Filme"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1534
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2199
+msgid "Advertising"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1536
+msgid "TV Show > Season"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1537
+msgid "TV Show > Episode"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1538
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1769
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1778
+#: inc/doo_database.php:105
+msgid "TOP IMDb"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1542
+msgid "Genres Widget"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1543
+#, fuzzy
+#| msgid "Movies"
+msgid "Slider Movies"
+msgstr "Filme"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1544
+msgid "Slider TV Shows"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1547
+msgid "Modules enabled"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1548
+msgid "Modules disabled"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1569
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1645
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1777
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1824
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1899
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1974
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2049
+msgid "Module Title"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1571
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1647
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1779
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1826
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1901
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1976
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2051
+msgid "Add title to show"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1577
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1653
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1690
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1798
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1832
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1907
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1982
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2057
+#: inc/widgets/content_related_widget.php:110 inc/widgets/content_widget.php:83
+#: inc/widgets/content_widget_home.php:143
+#: inc/widgets/content_widget_views.php:83
+msgid "Items number"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1578
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1654
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1691
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1799
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1833
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1908
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1983
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2058
+msgid "Number of items to show"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1588
+msgid "Module control"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1589
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1844
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1919
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1994
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2069
+msgid "Check to enable option."
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1591
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1846
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1921
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1996
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2071
+msgid "Activate Slider"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1592
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1847
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1922
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1997
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2072
+msgid "Auto play Slider"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1600
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1733
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1855
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1930
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2005
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2080
+msgid "Order by"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1601
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1734
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1856
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1931
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2006
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2081
+msgid "Order items for this module"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1604
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1737
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1859
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1934
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2009
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2084
+#, fuzzy
+#| msgid "Post comment"
+msgid "Post date"
+msgstr "Abschicken"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1605
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1738
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1860
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1935
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2010
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2085
+#, fuzzy
+#| msgid "Post comment"
+msgid "Post title"
+msgstr "Abschicken"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1606
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1739
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1861
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1936
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2011
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2086
+#, fuzzy
+#| msgid "Last name"
+msgid "Last modified"
+msgstr "Nachname"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1607
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1740
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1862
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1937
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2012
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2087
+msgid "Random entry"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1617
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1750
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1872
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1947
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2022
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2097
+msgid "Order"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1646
+#, fuzzy
+#| msgid "Last name"
+msgid "Last entries"
+msgstr "Nachname"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1664
+msgid "Number of words"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1665
+msgid "Number of words for describing the entry"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1682
+msgid "Main Slider"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1701
+msgid "Autoplay slider control"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1702
+msgid "Check to enable auto-play slider."
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1704
+msgid "Autoplay Slider"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1705
+msgid "Autoplay Slider Movies"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1706
+msgid "Autoplay Slider TV Shows"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1713
+msgid "Speed Slider"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1714
+msgid "Select speed slider in secons"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1716
+msgid "4 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1717
+msgid "3.5 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1718
+msgid "3 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1719
+msgid "2.5 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1720
+msgid "2 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1721
+msgid "1.5 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1722
+msgid "1 second"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1723
+msgid "0.5 seconds"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1785
+msgid "Select Layout"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1786
+msgid "Select the type of module to display"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1788
+msgid "Movies and TV Shows"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1789
+msgid "Only Movies"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1790
+msgid "Only TV Shows"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1843
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1918
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1993
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2068
+msgid "Slider control"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:1966
+msgid "TV Shows > Seasons"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2041
+msgid "TV Shows > Episodes"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2119
+msgid "SEO"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2126
+msgid "SEO Features"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2127
+msgid "Basic SEO"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2133
+msgid ""
+"Uncheck this to disable SEO features in the theme, highly recommended if you "
+"use any other SEO plugin, that way the themes SEO features won't conflict "
+"with the plugin"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2140
+msgid "Alternative name"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2147
+msgid "Main keywords"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2148
+msgid "add main keywords for site info"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2155
+msgid "Meta description"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2161
+msgid "Site verification"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2168
+msgid "Google Search Console"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2169
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2177
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2185
+#, fuzzy
+#| msgid "Settings"
+msgid "Settings here"
+msgstr "Einstellungen"
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2176
+msgid "Bing Webmaster Tools"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2184
+msgid "Yandex Webmaster Tools"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2206
+msgid "Manage integration codes and ads"
+msgstr ""
+
+#: inc/core/doothemes/codestar/config/dooplay.options.php:2220
+msgid "Backup"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/background/background.php:34
+#: inc/core/doothemes/codestar/fields/background/background.php:35
+#: inc/core/doothemes/codestar/fields/upload/upload.php:23
+#: inc/core/doothemes/codestar/fields/upload/upload.php:24
+#: inc/doo_metafields.php:140 inc/doo_metafields.php:248
+msgid "Upload"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/background/background.php:36
+#: inc/core/doothemes/codestar/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/group/group.php:45
+#: inc/core/doothemes/codestar/fields/group/group.php:77 inc/doo_ajax.php:25
+#: inc/doo_collection.php:178 inc/parts/player_editor.php:35
+#: inc/parts/player_editor.php:58 inc/parts/player_editor.php:79
+#: inc/parts/simple_item_favorites.php:6 inc/parts/simple_item_views.php:6
+msgid "Remove"
+msgstr "Entfernen"
+
+#: inc/core/doothemes/codestar/fields/icon/icon.php:25
+#: inc/core/doothemes/codestar/functions/actions.php:60
+#, fuzzy
+#| msgid "Add row"
+msgid "Add Icon"
+msgstr "Link hinzufügen"
+
+#: inc/core/doothemes/codestar/fields/icon/icon.php:26
+#, fuzzy
+#| msgid "Remove"
+msgid "Remove Icon"
+msgstr "Entfernen"
+
+#: inc/core/doothemes/codestar/fields/image/image.php:22
+#, fuzzy
+#| msgid "Add widgets"
+msgid "Add Image"
+msgstr "Widgets hinzufügen"
+
+#: inc/core/doothemes/codestar/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/sorter/sorter.php:25
+#, fuzzy
+#| msgid "Disable"
+msgid "Disabled Modules"
+msgstr "Deaktivieren"
+
+#: inc/core/doothemes/codestar/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/switcher/switcher.php:20
+#, fuzzy
+#| msgid "of"
+msgid "off"
+msgstr "von"
+
+#: inc/core/doothemes/codestar/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/core/doothemes/codestar/fields/typography/typography.php:107
+#: inc/core/doothemes/codestar/functions/actions.php:20
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: inc/core/doothemes/codestar/functions/actions.php:61
+#, fuzzy
+#| msgid "Search..."
+msgid "Search a Icon..."
+msgstr "Suche..."
+
+#: inc/core/doothemes/codestar/functions/helpers.php:39
+msgid "This field class is not available!"
+msgstr ""
+
+#: inc/core/doothemes/codestar/functions/validate.php:10
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: inc/core/doothemes/codestar/functions/validate.php:26
+#, fuzzy
+#| msgid "Please wait, sending data.."
+msgid "Please write a numeric data!"
+msgstr "Bitte warten, Daten werden gesendet..."
+
+#: inc/core/doothemes/codestar/functions/validate.php:42
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: inc/core/doothemes/init.php:45
+msgid "license"
+msgstr ""
+
+#: inc/core/doothemes/init.php:46
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/core/doothemes/init.php:48
+msgid "License Action"
+msgstr ""
+
+#: inc/core/doothemes/init.php:49
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/core/doothemes/init.php:50
+msgid "Activate License"
+msgstr ""
+
+#: inc/core/doothemes/init.php:51 inc/core/doothemes/init.php:63
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/core/doothemes/init.php:52
+msgid "Renew?"
+msgstr ""
+
+#: inc/core/doothemes/init.php:53
+msgid "unlimited"
+msgstr ""
+
+#: inc/core/doothemes/init.php:54
+msgid "License key is active"
+msgstr ""
+
+#: inc/core/doothemes/init.php:55
+#, php-format
+msgid "since %s."
+msgstr ""
+
+#: inc/core/doothemes/init.php:56
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/core/doothemes/init.php:57
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/core/doothemes/init.php:58
+msgid "License key has expired."
+msgstr ""
+
+#: inc/core/doothemes/init.php:59
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/core/doothemes/init.php:60
+msgid "License is inactive."
+msgstr ""
+
+#: inc/core/doothemes/init.php:61
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/core/doothemes/init.php:62
+msgid "Please activate a valid license."
+msgstr ""
+
+#: inc/core/doothemes/init.php:64
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/core/doothemes/init.php:65
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: inc/doo_ads.php:32 inc/doo_ads.php:33
+msgid "DooPlay Ad banners"
+msgstr ""
+
+#: inc/doo_ajax.php:23 inc/doo_collection.php:70
+msgid "Add to favorites"
+msgstr "Film zu Favoriten hinzufügen"
+
+#: inc/doo_ajax.php:24 inc/doo_collection.php:70
+#, fuzzy
+#| msgid "Add to favorites"
+msgid "Remove of favorites"
+msgstr "Film zu Favoriten hinzufügen"
+
+#: inc/doo_ajax.php:26 inc/doo_collection.php:178
+msgid "I saw it"
+msgstr "Film gesehen"
+
+#: inc/doo_ajax.php:27
+msgid "Data send.."
+msgstr ""
+
+#: inc/doo_ajax.php:28
+msgid "Updating data.."
+msgstr "Daten aktualisieren..."
+
+#: inc/doo_ajax.php:29
+msgid "Error"
+msgstr ""
+
+#: inc/doo_ajax.php:30
+msgid "Pending review"
+msgstr ""
+
+#: inc/doo_ajax.php:31 inc/doo_links.php:70 inc/parts/single/links.php:7
+#: inc/parts/single/links.php:16
+msgid "Download"
+msgstr ""
+
+#: inc/doo_ajax.php:32
+msgid "Sending data"
+msgstr "Wird eingetragen"
+
+#: inc/doo_ajax.php:34 inc/parts/item_links.php:45
+#: inc/parts/item_links_admin.php:41
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: inc/doo_ajax.php:35 inc/doo_links.php:276 inc/doo_links.php:593
+#: inc/doo_links.php:647 inc/doo_links.php:687
+#: inc/includes/requests/tipo.php:85 inc/parts/item_links.php:49
+#: inc/parts/item_links_admin.php:45
+msgid "Delete"
+msgstr "Löschen"
+
+#: inc/doo_ajax.php:36 pages/sections/account.php:92
+msgid "Links Shared"
+msgstr "Meine Links"
+
+#: inc/doo_ajax.php:37
+msgid "Manage pending links"
+msgstr ""
+
+#: inc/doo_ajax.php:38
+msgid "Please wait, sending data.."
+msgstr "Bitte warten, Daten werden gesendet..."
+
+#: inc/doo_ajax.php:39 inc/includes/series/temporadas/tipo.php:74
+#: inc/includes/series/tipo.php:74
+msgid "Ready"
+msgstr ""
+
+#: inc/doo_ajax.php:40
+msgid "Do you really want to delete this link?"
+msgstr ""
+
+#: inc/doo_ajax.php:63
+msgid "BUG REPORT"
+msgstr ""
+
+#: inc/doo_ajax.php:83
+msgid "Permalink"
+msgstr ""
+
+#: inc/doo_ajax.php:84
+msgid "Edit post"
+msgstr ""
+
+#: inc/doo_ajax.php:88
+msgid "IP"
+msgstr ""
+
+#: inc/doo_ajax.php:95
+msgid "Thank you! Your report was submitted.."
+msgstr ""
+
+#: inc/doo_ajax.php:134
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#: inc/doo_ajax.php:152
+msgid "Your profile has been updated."
+msgstr ""
+
+#: inc/doo_ajax.php:195
+msgid "No more content to show."
+msgstr ""
+
+#: inc/doo_ajax.php:225 inc/doo_ajax.php:254 inc/doo_ajax.php:281
+#: inc/doo_init.php:1187 inc/doo_init.php:1210 inc/doo_init.php:1231
+#: inc/parts/modules/widgethome.php:13
+msgid "No content"
+msgstr ""
+
+#: inc/doo_ajax.php:304
+#, fuzzy
+#| msgid "Links Shared"
+msgid "Link enabled"
+msgstr "Meine Links"
+
+#: inc/doo_ajax.php:306
+#, fuzzy
+#| msgid "Links Shared"
+msgid "Link disabled"
+msgstr "Meine Links"
+
+#: inc/doo_ajax.php:308
+msgid "Link moved to trash"
+msgstr ""
+
+#: inc/doo_ajax.php:327 inc/doo_ajax.php:375
+msgid "No data nonce"
+msgstr ""
+
+#: inc/doo_assets.php:55
+msgid "View all results"
+msgstr ""
+
+#: inc/doo_assets.php:57
+msgid "Really you want to restart all data?"
+msgstr ""
+
+#: inc/doo_assets.php:58
+msgid "They sure have added content manually?"
+msgstr ""
+
+#: inc/doo_assets.php:60
+msgid "Loading player.."
+msgstr ""
+
+#: inc/doo_assets.php:61
+msgid "Select a video player"
+msgstr ""
+
+#: inc/doo_assets.php:82
+msgid "Reloading.."
+msgstr ""
+
+#: inc/doo_assets.php:83
+msgid "Domain has already been registered"
+msgstr ""
+
+#: inc/doo_assets.php:84
+msgid "Updating database.."
+msgstr ""
+
+#: inc/doo_assets.php:85
+msgid "Action completed"
+msgstr ""
+
+#: inc/doo_assets.php:86 inc/includes/peliculas/tipo.php:92
+#: inc/includes/series/tipo.php:101
+msgid "Remove featured"
+msgstr ""
+
+#: inc/doo_assets.php:87 inc/includes/peliculas/tipo.php:91
+#: inc/includes/series/tipo.php:100
+#, fuzzy
+#| msgid "Add to favorites"
+msgid "Add to featured"
+msgstr "Film zu Favoriten hinzufügen"
+
+#: inc/doo_assets.php:88
+msgid "The links field is empty"
+msgstr ""
+
+#: inc/doo_assets.php:89
+msgid "Do you really want to delete this item?"
+msgstr ""
+
+#: inc/doo_assets.php:90
+msgid ""
+"Do you really want to delete this register, once completed this action will "
+"not recover the data again?"
+msgstr ""
+
+#: inc/doo_assets.php:91
+msgid "Do you want to publish the links before continuing?"
+msgstr ""
+
+#: inc/doo_auth.php:83
+msgid "Welcome, reloading page"
+msgstr ""
+
+#: inc/doo_auth.php:88
+msgid "Wrong username or password"
+msgstr ""
+
+#: inc/doo_auth.php:114
+msgid "A username is required for registration"
+msgstr ""
+
+#: inc/doo_auth.php:116
+msgid "Sorry, that username already exists"
+msgstr ""
+
+#: inc/doo_auth.php:118
+msgid "You must enter a valid email address"
+msgstr ""
+
+#: inc/doo_auth.php:120
+#, fuzzy
+#| msgid "Your email address will not be published"
+msgid "Sorry, that email address is already used"
+msgstr "Deine E-Mail-Adresse wird nicht veröffentlicht"
+
+#: inc/doo_auth.php:125
+msgid "Registration completed successfully"
+msgstr ""
+
+#: inc/doo_auth.php:128
+msgid "Google reCAPTCHA Error"
+msgstr ""
+
+#: inc/doo_cache.php:102
+msgid "Dooplay options"
+msgstr ""
+
+#: inc/doo_cache.php:112
+msgid "Delete cache this Entry"
+msgstr ""
+
+#: inc/doo_cache.php:119
+msgid "Delete cache expired"
+msgstr ""
+
+#: inc/doo_cache.php:125
+msgid "Delete all cache"
+msgstr ""
+
+#: inc/doo_comments.php:43 taxonomy.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/doo_comments.php:47 inc/doo_init.php:936
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/doo_comments.php:59
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/doo_comments.php:70
+msgid "Required"
+msgstr ""
+
+#: inc/doo_comments.php:72
+msgid "Post comment"
+msgstr "Abschicken"
+
+#: inc/doo_comments.php:73
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: inc/doo_comments.php:79
+msgid "Your comment.."
+msgstr "Dein Kommentar..."
+
+#: inc/doo_comments.php:86 pages/contact.php:48
+#: pages/sections/register-form.php:16
+msgid "Name"
+msgstr "Name"
+
+#: inc/doo_comments.php:87
+msgid "Add a display name"
+msgstr "Füge einen Anzeigenamen hinzu"
+
+#: inc/doo_comments.php:94 pages/contact.php:52
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/doo_comments.php:95
+msgid "Your email address will not be published"
+msgstr "Deine E-Mail-Adresse wird nicht veröffentlicht"
+
+#: inc/doo_comments.php:102 pages/sections/account.php:197
+msgid "Website"
+msgstr "Webseite"
+
+#: inc/doo_database.php:46 inc/doo_database.php:47
+msgid "DooPlay Database"
+msgstr ""
+
+#: inc/doo_database.php:60
+msgid "this process was never executed"
+msgstr ""
+
+#: inc/doo_database.php:99
+msgid "Blog"
+msgstr ""
+
+#: inc/doo_database.php:207
+msgid "Just now"
+msgstr ""
+
+#: inc/doo_init.php:19
+#, fuzzy
+#| msgid "Title"
+msgid "Site offline"
+msgstr "Name"
+
+#: inc/doo_init.php:44
+msgid "Menu main header"
+msgstr ""
+
+#: inc/doo_init.php:45
+msgid "Menu footer"
+msgstr ""
+
+#: inc/doo_init.php:48
+msgid "Footer - column 1"
+msgstr ""
+
+#: inc/doo_init.php:49
+msgid "Footer - column 2"
+msgstr ""
+
+#: inc/doo_init.php:50
+msgid "Footer - column 3"
+msgstr ""
+
+#: inc/doo_init.php:184 inc/widgets/content_widget_meta_genres.php:45
+msgid "Genres"
+msgstr ""
+
+#: inc/doo_init.php:298
+msgid "of"
+msgstr "von"
+
+#: inc/doo_init.php:458
+#, php-format
+msgid "Are you sure you want to delete %s ?"
+msgstr ""
+
+#: inc/doo_init.php:480
+msgid "Unknown resource"
+msgstr ""
+
+#: inc/doo_init.php:484
+msgid "Google Drive"
+msgstr ""
+
+#: inc/doo_init.php:693 inc/includes/controladores/taxonomias.php:15
+#: inc/includes/controladores/taxonomias.php:16
+#: inc/includes/controladores/taxonomias.php:17
+#: inc/includes/peliculas/metabox.php:225 inc/includes/slugs.php:37
+#: inc/parts/single/peliculas.php:145
+msgid "Director"
+msgstr "Regisseur"
+
+#: inc/doo_init.php:725 inc/includes/controladores/taxonomias.php:42
+#: inc/includes/controladores/taxonomias.php:43
+#: inc/includes/controladores/taxonomias.php:44
+#: inc/includes/series/metabox.php:180 inc/includes/slugs.php:36
+#: inc/parts/single/series.php:100
+msgid "Creator"
+msgstr ""
+
+#: inc/doo_init.php:818
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/doo_init.php:819
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/doo_init.php:820
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/doo_init.php:891
+msgid "Shared"
+msgstr "Geteilt"
+
+#: inc/doo_init.php:895
+msgid "Twitter"
+msgstr ""
+
+#: inc/doo_init.php:1017
+msgid "This content already exists, we recommend not to publish."
+msgstr ""
+
+#: inc/doo_init.php:1019
+msgid "Excellent! this content is unique."
+msgstr "Ausgezeichnet! Dieser Inhalt ist einzigartig."
+
+#: inc/doo_init.php:1162
+msgid "No content available on your list."
+msgstr ""
+
+#: inc/doo_init.php:1258 inc/parts/login_form.php:4
+msgid "Login to your account"
+msgstr ""
+
+#: inc/doo_init.php:1262 inc/parts/login_form.php:8
+msgid "Remember Me"
+msgstr ""
+
+#: inc/doo_init.php:1263 inc/parts/login_form.php:9
+#: pages/sections/login-form.php:15 pages/sections/login.php:10
+msgid "Log in"
+msgstr "Anmelden"
+
+#: inc/doo_init.php:1264 inc/parts/login_form.php:10
+msgid "Register a new account"
+msgstr ""
+
+#: inc/doo_init.php:1265 inc/parts/login_form.php:11
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/doo_init.php:1385
+msgid "Home"
+msgstr "Startseite"
+
+#: inc/doo_links.php:70 inc/parts/single/links.php:9
+#: inc/parts/single/links.php:18
+msgid "Watch online"
+msgstr "Stream"
+
+#: inc/doo_links.php:70 inc/doo_links.php:452 inc/doo_links.php:491
+#: inc/doo_links.php:586 inc/doo_links.php:587 inc/doo_links.php:641
+#: inc/doo_links.php:681 inc/doo_links.php:733 inc/doo_links.php:735
+#: inc/parts/item_links.php:28 inc/parts/item_links.php:29
+#: inc/parts/item_links_admin.php:26 inc/parts/item_links_admin.php:27
+#: inc/parts/item_links_profile.php:26 inc/parts/item_links_profile.php:27
+#: inc/parts/single/doo_links.php:45 inc/parts/single/links.php:8
+#: inc/parts/single/links.php:17
+msgid "Torrent"
+msgstr ""
+
+#: inc/doo_links.php:70 inc/parts/single/links.php:10
+#: inc/parts/single/links.php:19
+msgid "Rent or Buy"
+msgstr ""
+
+#: inc/doo_links.php:100
+#, php-format
+msgid "Links %%PENDING_COUNT_LINK%%"
+msgstr ""
+
+#: inc/doo_links.php:112
+#, fuzzy
+#| msgid "Links Shared"
+msgid "Links manage"
+msgstr "Meine Links"
+
+#: inc/doo_links.php:239
+msgid "Save and publish"
+msgstr ""
+
+#: inc/doo_links.php:270 inc/parts/links_editor.php:23
+#: inc/parts/links_editor_type.php:31 inc/parts/single/links.php:37
+msgid "File size"
+msgstr "Dateigröße"
+
+#: inc/doo_links.php:275 inc/parts/links_editor.php:33
+msgid "Cancel"
+msgstr ""
+
+#: inc/doo_links.php:498
+msgid "Invalid verification"
+msgstr ""
+
+#: inc/doo_links.php:573 inc/parts/links_editor.php:52
+#: pages/sections/account.php:110 pages/sections/account.php:132
+msgid "Manage"
+msgstr "Verwalten"
+
+#: inc/doo_links.php:587
+msgid "Get Torrent"
+msgstr ""
+
+#: inc/doo_links.php:629
+msgid "No link has been added yet"
+msgstr ""
+
+#: inc/doo_links.php:641 inc/doo_links.php:681
+msgid "uTorrent"
+msgstr ""
+
+#: inc/doo_links.php:708 inc/parts/links_editor_type.php:5
+msgid "Parent"
+msgstr ""
+
+#: inc/doo_metafields.php:191
+#, fuzzy
+#| msgid "Update Rating"
+msgid "Update info"
+msgstr "Bewertung aktualisieren"
+
+#: inc/doo_metafields.php:191 inc/includes/series/temporadas/tipo.php:59
+msgid "Generate"
+msgstr ""
+
+#: inc/doo_metafields.php:192
+msgid "Check duplicate content"
+msgstr ""
+
+#: inc/doo_metafields.php:247
+msgid "Upload now"
+msgstr ""
+
+#: inc/doo_notices.php:45
+#, php-format
+msgid ""
+"DooPlay requires <strong>PHP %1$s+</strong>. Please ask your webhost to "
+"upgrade to at least PHP %1$s. Recommended: <strong>PHP 7.2</strong>"
+msgstr ""
+
+#: inc/doo_notices.php:53
+msgid ""
+"Invalid license, it is possible that some of the options may not work "
+"correctly"
+msgstr ""
+
+#: inc/doo_notices.php:53
+msgid "here"
+msgstr ""
+
+#: inc/doo_notices.php:61
+msgid "Dooplay requires you to update the database"
+msgstr ""
+
+#: inc/doo_notices.php:61
+msgid "click here to update"
+msgstr ""
+
+#: inc/doo_notices.php:69
+msgid ""
+"dbmovies API has not been activated, active to be able to generate content"
+msgstr ""
+
+#: inc/doo_notices.php:69
+msgid "Active Dbmovies now"
+msgstr ""
+
+#: inc/doo_notices.php:77
+msgid "Generate all the required pages"
+msgstr ""
+
+#: inc/doo_notices.php:77 inc/doo_notices.php:85
+msgid "click here"
+msgstr ""
+
+#: inc/doo_notices.php:85
+msgid "This version requires you to update the links module"
+msgstr ""
+
+#: inc/doo_player.php:43
+msgid "---------"
+msgstr ""
+
+#: inc/doo_player.php:44
+msgid "Chinese"
+msgstr ""
+
+#: inc/doo_player.php:45
+msgid "Denmark"
+msgstr ""
+
+#: inc/doo_player.php:48
+msgid "English British"
+msgstr ""
+
+#: inc/doo_player.php:49
+msgid "Egypt"
+msgstr ""
+
+#: inc/doo_player.php:57
+msgid "Philippines"
+msgstr ""
+
+#: inc/doo_player.php:58
+msgid "Portuguese Portugal"
+msgstr ""
+
+#: inc/doo_player.php:59
+msgid "Portuguese Brazil"
+msgstr ""
+
+#: inc/doo_player.php:62
+msgid "Scotland"
+msgstr ""
+
+#: inc/doo_player.php:63
+msgid "Spanish Spain"
+msgstr ""
+
+#: inc/doo_player.php:64
+msgid "Spanish Mexico"
+msgstr ""
+
+#: inc/doo_player.php:65
+msgid "Spanish Argentina"
+msgstr ""
+
+#: inc/doo_player.php:66
+msgid "Spanish Peru"
+msgstr ""
+
+#: inc/doo_player.php:67
+msgid "Spanish Chile"
+msgstr ""
+
+#: inc/doo_player.php:68
+msgid "Spanish Colombia"
+msgstr ""
+
+#: inc/doo_player.php:69
+msgid "Sweden"
+msgstr ""
+
+#: inc/doo_player.php:71
+msgid "Rusian"
+msgstr ""
+
+#: inc/doo_player.php:72
+msgid "Vietnam"
+msgstr ""
+
+#: inc/doo_player.php:84
+msgid "URL Iframe"
+msgstr ""
+
+#: inc/doo_player.php:85
+msgid "URL MP4"
+msgstr ""
+
+#: inc/doo_player.php:86
+msgid "ID or URL Google Drive"
+msgstr ""
+
+#: inc/doo_player.php:87
+msgid "Shortcode or HTML"
+msgstr ""
+
+#: inc/doo_player.php:240
+#, fuzzy
+#| msgid "Video trailer"
+msgid "Video Sources"
+msgstr "Trailer"
+
+#: inc/doo_player.php:245
+#, fuzzy
+#| msgid "Watch online"
+msgid "Watch trailer"
+msgstr "Stream"
+
+#: inc/doo_player.php:311
+msgid "Advertisement"
+msgstr ""
+
+#: inc/includes/controladores/taxonomias.php:69
+#: inc/includes/controladores/taxonomias.php:70
+#: inc/includes/controladores/taxonomias.php:71
+#: inc/includes/peliculas/metabox.php:218 inc/includes/series/metabox.php:173
+#: inc/includes/slugs.php:35 inc/parts/single/peliculas.php:98
+#: inc/parts/single/peliculas.php:149 inc/parts/single/series.php:87
+#: inc/parts/single/series.php:104
+msgid "Cast"
+msgstr "Besetzung"
+
+#: inc/includes/controladores/taxonomias.php:96
+#: inc/includes/controladores/taxonomias.php:97
+#: inc/includes/controladores/taxonomias.php:98 inc/includes/slugs.php:34
+msgid "Studio"
+msgstr ""
+
+#: inc/includes/controladores/taxonomias.php:124
+#: inc/includes/controladores/taxonomias.php:125
+#: inc/includes/controladores/taxonomias.php:126
+msgid "Networks"
+msgstr ""
+
+#: inc/includes/metabox.php:16
+#, fuzzy
+#| msgid "Post comment"
+msgid "Post meta"
+msgstr "Abschicken"
+
+#: inc/includes/metabox.php:29
+msgid "Short description"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:18
+msgid "Movie Info"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:44
+#: inc/includes/series/episodios/metabox.php:45
+#: inc/includes/series/metabox.php:41
+#: inc/includes/series/temporadas/metabox.php:43
+msgid "Generate data"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:45
+msgid "Generate data from <strong>imdb.com</strong>"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:46
+msgid "E.g. http://www.imdb.com/title/<strong>tt2911666</strong>/"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:53 inc/includes/peliculas/tipo.php:60
+#: inc/includes/series/metabox.php:58 inc/includes/series/tipo.php:63
+msgid "Featured Title"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:54 inc/includes/series/metabox.php:59
+msgid "Do you want to mark this title as a featured item?"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:61 inc/includes/series/metabox.php:66
+msgid "Images and trailer"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:68
+#: inc/includes/series/episodios/metabox.php:70
+#: inc/includes/series/metabox.php:73
+#: inc/includes/series/temporadas/metabox.php:68
+msgid "Poster"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:69 inc/includes/peliculas/metabox.php:79
+#: inc/includes/series/episodios/metabox.php:71
+#: inc/includes/series/episodios/metabox.php:81
+#: inc/includes/series/metabox.php:74 inc/includes/series/metabox.php:84
+#: inc/includes/series/temporadas/metabox.php:69
+msgid "Add url image"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:78
+#: inc/includes/series/episodios/metabox.php:80
+#: inc/includes/series/metabox.php:83
+msgid "Main Backdrop"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:92
+#: inc/includes/series/episodios/metabox.php:94
+#: inc/includes/series/metabox.php:97
+msgid "Backdrops"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:93
+#: inc/includes/series/episodios/metabox.php:95
+#: inc/includes/series/metabox.php:98
+msgid "Place each image url below another"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:101 inc/includes/series/metabox.php:106
+#: inc/parts/single/series.php:113
+msgid "Video trailer"
+msgstr "Trailer"
+
+#: inc/includes/peliculas/metabox.php:102 inc/includes/series/metabox.php:107
+msgid "Add id Youtube video"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:111
+msgid "IMDb.com data"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:120
+msgid "Rating IMDb"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:121
+#: inc/includes/peliculas/metabox.php:201 inc/includes/series/metabox.php:157
+msgid "Average / votes"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:131
+msgid "Rated"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:142
+msgid "Country"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:149
+msgid "Themoviedb.org data"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:161
+#: inc/includes/series/episodios/tipo.php:55
+#: inc/includes/series/temporadas/tipo.php:62 inc/includes/series/tipo.php:60
+msgid "ID TMDb"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:173 inc/parts/single/peliculas.php:124
+#: inc/parts/single/series.php:133
+msgid "Original title"
+msgstr "Originaltitel"
+
+#: inc/includes/peliculas/metabox.php:184
+msgid "Tag line"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:191
+msgid "Release Date"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:200 inc/includes/series/metabox.php:156
+msgid "Rating TMDb"
+msgstr ""
+
+#: inc/includes/peliculas/metabox.php:209
+msgid "Runtime"
+msgstr ""
+
+#: inc/includes/peliculas/tipo.php:29
+#, fuzzy
+#| msgid "Movies"
+msgid "Movies manage"
+msgstr "Filme"
+
+#: inc/includes/peliculas/tipo.php:57
+msgid "Rating user"
+msgstr ""
+
+#: inc/includes/peliculas/tipo.php:58 inc/includes/series/episodios/tipo.php:56
+#: inc/parts/single/peliculas.php:99
+msgid "Report"
+msgstr ""
+
+#: inc/includes/peliculas/tipo.php:75 inc/includes/series/episodios/tipo.php:78
+msgid "Solved"
+msgstr ""
+
+#: inc/includes/rating/content.php:11
+msgid "Log in to vote"
+msgstr ""
+
+#: inc/includes/rating/content.php:13
+msgid "Your rating:"
+msgstr "Meine Bewertung:"
+
+#: inc/includes/rating/content.php:18 inc/includes/rating/init.php:264
+#: inc/includes/rating/init.php:591
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] "Bewertung"
+msgstr[1] "Bewertungen"
+
+#: inc/includes/rating/init.php:63
+msgid "View Starstruck Settings"
+msgstr ""
+
+#: inc/includes/rating/init.php:160
+msgid "0"
+msgstr ""
+
+#: inc/includes/rating/init.php:261
+msgid "Thanks for your vote!"
+msgstr ""
+
+#: inc/includes/rating/init.php:277
+msgid "HTTP/1.1 400 Nonce is empty and/or invalid"
+msgstr ""
+
+#: inc/includes/rating/init.php:280
+msgid "HTTP/1.1 400 ID is empty"
+msgstr ""
+
+#: inc/includes/rating/init.php:308
+msgid "Busted!"
+msgstr ""
+
+#: inc/includes/rating/init.php:323
+msgid "User vote deleted"
+msgstr ""
+
+#: inc/includes/rating/init.php:403
+msgid "Anonymous"
+msgstr ""
+
+#: inc/includes/rating/init.php:591
+#, fuzzy
+#| msgid "TMDb Rating"
+msgid "Rating:"
+msgstr "TMDb-Wertung"
+
+#: inc/includes/rating/init.php:600
+#, fuzzy
+#| msgid "Results found:"
+msgid "No results found."
+msgstr "Suchergebnisse:"
+
+#: inc/includes/requests/tipo.php:17 inc/includes/requests/tipo.php:18
+#: inc/includes/requests/tipo.php:19 inc/includes/requests/tipo.php:20
+#: inc/includes/requests/tipo.php:21 inc/includes/requests/tipo.php:30
+#: inc/includes/slugs.php:24
+msgid "Requests"
+msgstr ""
+
+#: inc/includes/requests/tipo.php:19
+#, php-format
+msgid "Requests %%PENDING_COUNT_REQUEST%%"
+msgstr ""
+
+#: inc/includes/requests/tipo.php:31
+msgid "Requests manage"
+msgstr ""
+
+#: inc/includes/requests/tipo.php:58
+msgid "TMDb ID"
+msgstr ""
+
+#: inc/includes/requests/tipo.php:60
+#, fuzzy
+#| msgid "Contact support page."
+msgid "Controls"
+msgstr "Support über das Kontaktformular kontaktieren."
+
+#: inc/includes/requests/tipo.php:79 inc/includes/series/temporadas/tipo.php:61
+#: inc/includes/series/tipo.php:29 pages/rating.php:25 pages/trending.php:26
+msgid "TV Show"
+msgstr ""
+
+#: inc/includes/requests/tipo.php:83
+msgid "Import and delete"
+msgstr ""
+
+#: inc/includes/requests/tipo.php:84
+#, fuzzy
+#| msgid "report"
+msgid "Import"
+msgstr "Melden"
+
+#: inc/includes/series/episodios/metabox.php:46
+#: inc/includes/series/metabox.php:42
+#: inc/includes/series/temporadas/metabox.php:44
+msgid "Generate data from <strong>themoviedb.org</strong>"
+msgstr ""
+
+#: inc/includes/series/episodios/metabox.php:47
+msgid ""
+"E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead/"
+"season/<strong>1</strong>/episode/<strong>2</strong>"
+msgstr ""
+
+#: inc/includes/series/episodios/metabox.php:55
+msgid "Episode title"
+msgstr ""
+
+#: inc/includes/series/episodios/metabox.php:63
+#: inc/includes/series/temporadas/metabox.php:61
+msgid "Serie name"
+msgstr ""
+
+#: inc/includes/series/episodios/metabox.php:102
+#: inc/includes/series/temporadas/metabox.php:78
+msgid "Air date"
+msgstr ""
+
+#: inc/includes/series/episodios/tipo.php:15
+msgctxt "Post Type General Name"
+msgid "Episodes"
+msgstr ""
+
+#: inc/includes/series/episodios/tipo.php:16
+msgctxt "Post Type Singular Name"
+msgid "Episodes"
+msgstr ""
+
+#: inc/includes/series/episodios/tipo.php:28
+msgid "Episodes manage"
+msgstr ""
+
+#: inc/includes/series/episodios/tipo.php:54
+msgid "Title Episode"
+msgstr ""
+
+#: inc/includes/series/metabox.php:18
+msgid "TVShows Info"
+msgstr ""
+
+#: inc/includes/series/metabox.php:43
+msgid ""
+"E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead"
+msgstr ""
+
+#: inc/includes/series/metabox.php:50
+msgid "Seasons control"
+msgstr ""
+
+#: inc/includes/series/metabox.php:51
+msgid "I have generated seasons or I will manually"
+msgstr ""
+
+#: inc/includes/series/metabox.php:115
+msgid "More data"
+msgstr ""
+
+#: inc/includes/series/metabox.php:123
+msgid "Original Name"
+msgstr ""
+
+#: inc/includes/series/metabox.php:130
+msgid "Firt air date"
+msgstr ""
+
+#: inc/includes/series/metabox.php:137 inc/parts/single/series.php:143
+msgid "Last air date"
+msgstr ""
+
+#: inc/includes/series/metabox.php:146
+msgid "Content total posted"
+msgstr ""
+
+#: inc/includes/series/metabox.php:147
+msgid "Seasons / Episodes"
+msgstr ""
+
+#: inc/includes/series/metabox.php:165
+msgid "Episode runtime"
+msgstr ""
+
+#: inc/includes/series/metabox.php:272
+msgid "Generating seasons"
+msgstr ""
+
+#: inc/includes/series/metabox.php:273
+#: inc/includes/series/temporadas/metabox.php:151
+msgid "not close this page to complete the upload"
+msgstr ""
+
+#: inc/includes/series/temporadas/metabox.php:18
+msgid "seasons Info"
+msgstr ""
+
+#: inc/includes/series/temporadas/metabox.php:45
+msgid ""
+"E.g. https://www.themoviedb.org/tv/<strong>1402</strong>-the-walking-dead/"
+"season/<strong>1</strong>/"
+msgstr ""
+
+#: inc/includes/series/temporadas/metabox.php:52
+msgid "Episodes control"
+msgstr ""
+
+#: inc/includes/series/temporadas/metabox.php:53
+msgid "I generated episodes or add manually"
+msgstr ""
+
+#: inc/includes/series/temporadas/metabox.php:150
+msgid "Generating episodes"
+msgstr ""
+
+#: inc/includes/series/temporadas/tipo.php:16
+msgctxt "Post Type General Name"
+msgid "Seasons"
+msgstr ""
+
+#: inc/includes/series/temporadas/tipo.php:17
+msgctxt "Post Type Singular Name"
+msgid "Seasons"
+msgstr ""
+
+#: inc/includes/series/temporadas/tipo.php:29
+msgid "Seasons manage"
+msgstr ""
+
+#: inc/includes/series/temporadas/tipo.php:76
+msgid "Generate Episodes"
+msgstr ""
+
+#: inc/includes/series/tipo.php:16
+msgctxt "Post Type General Name"
+msgid "TV Shows"
+msgstr ""
+
+#: inc/includes/series/tipo.php:17
+msgctxt "Post Type Singular Name"
+msgid "TV Show"
+msgstr ""
+
+#: inc/includes/series/tipo.php:18
+#, php-format
+msgid "TV Shows %%PENDING_COUNT_TV%%"
+msgstr ""
+
+#: inc/includes/series/tipo.php:30
+msgid "TV series manage"
+msgstr ""
+
+#: inc/includes/series/tipo.php:58
+msgid "Generate Seasons"
+msgstr ""
+
+#: inc/includes/series/tipo.php:76 inc/parts/single/listas/se_ep.php:60
+msgid "Generate seasons"
+msgstr ""
+
+#: inc/includes/slugs.php:31 inc/widgets/content_widget_home.php:118
+msgid "Genre"
+msgstr ""
+
+#: inc/includes/slugs.php:32
+msgid "Release"
+msgstr ""
+
+#: inc/includes/slugs.php:33
+msgid "Network"
+msgstr ""
+
+#: inc/includes/slugs.php:45
+msgid "DooPlay: Permalink Settings"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:2
+#, fuzzy
+#| msgid "Movies"
+msgid "Ad code manager"
+msgstr "Filme"
+
+#: inc/parts/admin/ads_tool.php:8
+msgid "Code integrations"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:10
+msgid "Single Post"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:12
+#, fuzzy
+#| msgid "Links Shared"
+msgid "Links redirection"
+msgstr "Meine Links"
+
+#: inc/parts/admin/ads_tool.php:18
+msgid "Header code integration"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:20
+msgid ""
+"Enter the code which you need to place before closing tag. (ex: Google "
+"Webmaster Tools verification, Bing Webmaster Center, BuySellAds Script, "
+"Alexa verification etc.)"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:22
+msgid "Footer code integration"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:24
+msgid ""
+"Enter the codes which you need to place in your footer. (ex: Google "
+"Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:28
+msgid "Homepage > Ad banner desktop"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:29 inc/parts/admin/ads_tool.php:31
+#: inc/parts/admin/ads_tool.php:37 inc/parts/admin/ads_tool.php:39
+#: inc/parts/admin/ads_tool.php:45 inc/parts/admin/ads_tool.php:47
+#: inc/parts/admin/ads_tool.php:52 inc/parts/admin/ads_tool.php:54
+#: inc/parts/admin/ads_tool.php:58 inc/parts/admin/ads_tool.php:60
+msgid "Use HTML code"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:30
+msgid "Homepage > Ad banner mobile"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:32 inc/parts/admin/ads_tool.php:40
+#: inc/parts/admin/ads_tool.php:48 inc/parts/admin/ads_tool.php:55
+#: inc/parts/admin/ads_tool.php:61
+msgid "This is an optional field"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:36
+msgid "Single Post > Ad banner desktop"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:38
+msgid "Single Post > Ad banner mobile"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:44
+msgid "Video Player > Ad banner desktop"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:46
+msgid "Video Player > Ad banner mobile"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:51
+msgid "Ad in top for Desktop"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:53
+msgid "Ad in top for mobile"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:57
+msgid "Ad in bottom for Desktop"
+msgstr ""
+
+#: inc/parts/admin/ads_tool.php:59
+msgid "Ad in bottom for mobile"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:2
+msgid "Database tool for DooPlay"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:3
+msgid "Caution, any process that runs from this tool is irreversible"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:4
+msgid ""
+"Before proceeding with any action that you wish to execute from this tool, "
+"we recommend making a backup of your database, all elimination processes are "
+"irreversible."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:11
+#, fuzzy
+#| msgid "Update Rating"
+msgid "Update Links Module"
+msgstr "Bewertung aktualisieren"
+
+#: inc/parts/admin/database_tool.php:13
+msgid ""
+"This new version require that you update the content for the links module, "
+"the process is safe"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:15
+#, fuzzy
+#| msgid "Update account"
+msgid "Update module"
+msgstr "Speichern"
+
+#: inc/parts/admin/database_tool.php:32
+msgid "Force license activation"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:34
+msgid ""
+"This measure is required when your server does not complete the connection "
+"with our repository."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:45
+msgid "Reset license"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:47
+msgid "Delete all the data that your license has registered in your database."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:50 inc/parts/admin/database_tool.php:61
+#: inc/parts/admin/database_tool.php:72 inc/parts/admin/database_tool.php:83
+#: inc/parts/admin/database_tool.php:94 inc/parts/admin/database_tool.php:105
+#: inc/parts/admin/database_tool.php:115 inc/parts/admin/database_tool.php:126
+msgid "Run process"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:56
+#, fuzzy
+#| msgid "File size"
+msgid "Clear Transient options"
+msgstr "Dateigröße"
+
+#: inc/parts/admin/database_tool.php:58
+msgid "Removing transient options can help solve some system problems."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:67
+#, fuzzy
+#| msgid "Add to favorites"
+msgid "Reset User favorites"
+msgstr "Film zu Favoriten hinzufügen"
+
+#: inc/parts/admin/database_tool.php:69
+msgid "Reset the list of favorites of all your users."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:78
+msgid "Reset User views"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:80
+msgid "Restore the list of views of all your users."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:89
+msgid "Reset User reports"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:91
+msgid "Remove all user reports"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:100
+msgid "Reset User ratings"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:102
+msgid "Reset rating counter on all content."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:111
+#, fuzzy
+#| msgid "Add to favorites"
+msgid "Reset Post featured"
+msgstr "Film zu Favoriten hinzufügen"
+
+#: inc/parts/admin/database_tool.php:113
+msgid "Reset all the content that was marked as featured and start a new list."
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:121
+msgid "Reset Post views"
+msgstr ""
+
+#: inc/parts/admin/database_tool.php:123
+msgid "Reset views counter on all content."
+msgstr ""
+
+#: inc/parts/comments.php:38
+#, php-format
+msgid "<strong>Disqus:</strong> add shortname your comunity %s"
+msgstr ""
+
+#: inc/parts/item.php:64
+msgid "min"
+msgstr ""
+
+#: inc/parts/item.php:65
+msgid "views"
+msgstr "Aufrufe"
+
+#: inc/parts/item_ep.php:24
+msgid "season x episode"
+msgstr ""
+
+#: inc/parts/item_se.php:26 inc/parts/single/episodios.php:83
+msgid "season"
+msgstr ""
+
+#: inc/parts/item_se.php:34 inc/parts/single/listas/se_ep.php:30
+#: inc/parts/single/listas/seasons.php:27 pages/search.php:36
+msgid "Season"
+msgstr ""
+
+#: inc/parts/links_editor.php:30
+msgid "Add a link per line"
+msgstr ""
+
+#: inc/parts/links_editor.php:34 inc/parts/links_editor.php:38
+#, fuzzy
+#| msgid "Add widgets"
+msgid "Add Links"
+msgstr "Widgets hinzufügen"
+
+#: inc/parts/links_editor.php:39
+msgid "Reload List"
+msgstr ""
+
+#: inc/parts/links_editor_single.php:9
+#, fuzzy
+#| msgid "Edit"
+msgid "Edit Link"
+msgstr "Edit"
+
+#: inc/parts/links_editor_single.php:32
+#, fuzzy
+#| msgid "File size"
+msgid "File size (optional)"
+msgstr "Dateigröße"
+
+#: inc/parts/links_editor_single.php:35
+#, fuzzy
+#| msgid "Sending data"
+msgid "Save data"
+msgstr "Wird eingetragen"
+
+#: inc/parts/links_editor_type.php:23
+msgid "URL Link"
+msgstr ""
+
+#: inc/parts/modules/blog.php:30 inc/parts/modules/episodes.php:41
+#: inc/parts/modules/movies.php:42 inc/parts/modules/seasons.php:41
+#: inc/parts/modules/top-imdb.php:47 inc/parts/modules/top-imdb.php:50
+#: inc/parts/modules/top-imdb.php:57 inc/parts/modules/top-imdb.php:64
+#: inc/parts/modules/tvshows.php:42 inc/widgets/content_widget_home.php:44
+#: pages/rating.php:23 pages/trending.php:24
+msgid "See all"
+msgstr "Mehr"
+
+#: inc/parts/modules/featured-post-movies.php:35
+msgid "Featured Movies"
+msgstr ""
+
+#: inc/parts/modules/featured-post-movies.php:60
+#: inc/parts/modules/featured-post-tvshows.php:60
+#: inc/parts/modules/featured-post.php:60
+msgid "Featured"
+msgstr ""
+
+#: inc/parts/modules/featured-post-tvshows.php:35
+msgid "Featured TV Shows"
+msgstr ""
+
+#: inc/parts/modules/top-imdb.php:47 inc/parts/modules/top-imdb.php:57
+#, fuzzy
+#| msgid "Movies"
+msgid "TOP Movies"
+msgstr "Filme"
+
+#: inc/parts/modules/top-imdb.php:50 inc/parts/modules/top-imdb.php:64
+msgid "TOP TVShows"
+msgstr ""
+
+#: inc/parts/player_editor.php:8
+msgid "URL source or Shortcode"
+msgstr ""
+
+#: inc/parts/player_editor.php:9
+msgid "Flag Language"
+msgstr ""
+
+#: inc/parts/player_editor.php:10
+msgid "Control"
+msgstr ""
+
+#: inc/parts/player_editor.php:85
+msgid "Add new row"
+msgstr ""
+
+#: inc/parts/simple_item_favorites.php:5 inc/parts/simple_item_views.php:5
+#, fuzzy
+#| msgid "Views"
+msgid "View"
+msgstr "Aufrufe"
+
+#: inc/parts/single/doo_links.php:37
+msgid "Please wait until the time runs out"
+msgstr ""
+
+#: inc/parts/single/doo_links.php:46
+msgid "Get this torrent"
+msgstr ""
+
+#: inc/parts/single/doo_links.php:48
+#, php-format
+msgid "Are you going to %s"
+msgstr ""
+
+#: inc/parts/single/episodios.php:21 inc/parts/single/peliculas.php:22
+#, fuzzy, php-format
+#| msgid "Views"
+msgid "%s Views"
+msgstr "Aufrufe"
+
+#: inc/parts/single/episodios.php:21 inc/parts/single/peliculas.php:22
+#, fuzzy
+#| msgid "Views"
+msgid "0 Views"
+msgstr "Aufrufe"
+
+#: inc/parts/single/links.php:34
+msgid "URL"
+msgstr ""
+
+#: inc/parts/single/links.php:73
+msgid "Add row"
+msgstr "Link hinzufügen"
+
+#: inc/parts/single/links.php:74
+msgid "Send link(s)"
+msgstr "Link(s) einreichen"
+
+#: inc/parts/single/listas/pag_episodes.php:36
+#: inc/parts/single/listas/pag_episodes.php:40
+msgid "previous episode"
+msgstr ""
+
+#: inc/parts/single/listas/pag_episodes.php:46
+msgid "episodes list"
+msgstr ""
+
+#: inc/parts/single/listas/pag_episodes.php:73
+#: inc/parts/single/listas/pag_episodes.php:77
+msgid "next episode"
+msgstr ""
+
+#: inc/parts/single/listas/se_ep.php:18
+msgid "Seasons and episodes"
+msgstr ""
+
+#: inc/parts/single/listas/se_ep.php:41
+msgid "no data"
+msgstr ""
+
+#: inc/parts/single/listas/se_ep.php:41
+msgid "Coming soon"
+msgstr ""
+
+#: inc/parts/single/peliculas.php:76
+msgid "Min."
+msgstr ""
+
+#: inc/parts/single/peliculas.php:96 inc/parts/single/series.php:86
+msgid "Info"
+msgstr "Infos"
+
+#: inc/parts/single/peliculas.php:113 inc/parts/single/series.php:124
+msgid "Synopsis"
+msgstr "Beschreibung"
+
+#: inc/parts/single/peliculas.php:129
+msgid "IMDb Rating"
+msgstr "IMDB-Wertung"
+
+#: inc/parts/single/peliculas.php:131 inc/parts/single/peliculas.php:138
+#, fuzzy, php-format
+#| msgid "votes"
+msgid "%s votes"
+msgstr "Bewertungen"
+
+#: inc/parts/single/peliculas.php:132
+msgid "Update Rating"
+msgstr "Bewertung aktualisieren"
+
+#: inc/parts/single/peliculas.php:137
+msgid "TMDb Rating"
+msgstr "TMDb-Wertung"
+
+#: inc/parts/single/post.php:33
+msgid "Categories"
+msgstr ""
+
+#: inc/parts/single/post.php:38
+msgid "Tags"
+msgstr ""
+
+#: inc/parts/single/post.php:51
+msgid "Add widgets"
+msgstr "Widgets hinzufügen"
+
+#: inc/parts/single/relacionados.php:17
+msgid "Similar titles"
+msgstr "Ähnliche Filme"
+
+#: inc/parts/single/report-video.php:3
+msgid "what going on?"
+msgstr "Was ist los?"
+
+#: inc/parts/single/report-video.php:7
+msgid "What is the problem? Please explain.."
+msgstr "Was ist das Problem? Bitte erklären..."
+
+#: inc/parts/single/report-video.php:10
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: inc/parts/single/report-video.php:11
+msgid "Your email is only visible to moderators"
+msgstr "Deine E-Mail-Adresse ist nur für Moderatoren sichtbar"
+
+#: inc/parts/single/report-video.php:14
+msgid "Send report"
+msgstr "Absenden"
+
+#: inc/parts/single/series.php:88
+msgid "Trailer"
+msgstr ""
+
+#: inc/parts/single/series.php:138
+msgid "First air date"
+msgstr ""
+
+#: inc/parts/single/series.php:158
+#, fuzzy
+#| msgid "Your rating:"
+msgid "Duration"
+msgstr "Meine Bewertung:"
+
+#: inc/parts/single/series.php:162
+msgid "Manually adding content"
+msgstr ""
+
+#: inc/parts/single/temporadas.php:72
+#, fuzzy
+#| msgid "No results to show with"
+msgid "No episodes to show"
+msgstr "Keine Ergebnisse für"
+
+#: inc/parts/single/temporadas.php:80
+msgid "Generate episodes"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:16
+msgid "A widget to show related content in the sidebar"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:18
+msgid "DooPlay - Sidebar related content"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:98 inc/widgets/content_widget.php:63
+#: inc/widgets/content_widget_meta_genres.php:48
+#: inc/widgets/content_widget_meta_releases.php:49
+#: inc/widgets/content_widget_social.php:87
+#: inc/widgets/content_widget_views.php:61
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:102 inc/widgets/content_widget.php:67
+#: inc/widgets/content_widget_views.php:75
+msgid "Layout style"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:104 inc/widgets/content_widget.php:69
+#: inc/widgets/content_widget_views.php:77
+msgid "Style 1 - image Backdrop"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:105 inc/widgets/content_widget.php:70
+#: inc/widgets/content_widget_views.php:78
+msgid "Style 2 - image Poster"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:106 inc/widgets/content_widget.php:71
+#: inc/widgets/content_widget_views.php:79
+msgid "Style 3 - no image"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:114 inc/widgets/content_widget.php:87
+msgid "Content order"
+msgstr ""
+
+#: inc/widgets/content_related_widget.php:122 inc/widgets/content_widget.php:95
+#: inc/widgets/content_widget_home.php:148
+msgid "Activate random order"
+msgstr ""
+
+#: inc/widgets/content_widget.php:16
+msgid "A widget to show content in the sidebar"
+msgstr ""
+
+#: inc/widgets/content_widget.php:18
+msgid "DooPlay - Sidebar content"
+msgstr ""
+
+#: inc/widgets/content_widget.php:75 inc/widgets/content_widget_home.php:110
+msgid "Content type"
+msgstr ""
+
+#: inc/widgets/content_widget_home.php:16
+msgid "Sort content by genres"
+msgstr ""
+
+#: inc/widgets/content_widget_home.php:18
+msgid "DooPlay - [widgetgenre] Genres"
+msgstr ""
+
+#: inc/widgets/content_widget_home.php:82
+msgid "Error: only homepage"
+msgstr ""
+
+#: inc/widgets/content_widget_home.php:130
+msgid "Autoplay Carousel"
+msgstr ""
+
+#: inc/widgets/content_widget_home.php:133
+msgid "Speed Carousel"
+msgstr ""
+
+#: inc/widgets/content_widget_home.php:135
+msgid "second"
+msgstr ""
+
+#: inc/widgets/content_widget_meta_genres.php:15
+msgid "Full list of genres"
+msgstr ""
+
+#: inc/widgets/content_widget_meta_genres.php:17
+msgid "DooPlay - Genres list"
+msgstr ""
+
+#: inc/widgets/content_widget_meta_genres.php:53
+#: inc/widgets/content_widget_meta_releases.php:54
+msgid "Enable scrolling"
+msgstr ""
+
+#: inc/widgets/content_widget_meta_releases.php:16
+msgid "Full list release year"
+msgstr ""
+
+#: inc/widgets/content_widget_meta_releases.php:18
+msgid "DooPlay - Release year list"
+msgstr ""
+
+#: inc/widgets/content_widget_meta_releases.php:46
+msgid "Release year"
+msgstr ""
+
+#: inc/widgets/content_widget_social.php:76
+msgid "Dooplay - Socialbox"
+msgstr ""
+
+#: inc/widgets/content_widget_social.php:76
+msgid "Displays links to social networks in a stylish manner"
+msgstr ""
+
+#: inc/widgets/content_widget_social.php:91
+msgid "Insert the URLs to your social networks"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:16
+msgid "A widget to display Popular content"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:18
+msgid "DooPlay - Sidebar Popular content"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:65
+msgid "Popular content by"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:67
+msgid "Visits"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:68
+msgid "Likes"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:69
+msgid "Users rating"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:70
+msgid "IMDb rating"
+msgstr ""
+
+#: inc/widgets/content_widget_views.php:71
+msgid "TMDb rating"
+msgstr ""
+
+#: inc/widgets/widgets.php:18
+msgid "Sidebar home page"
+msgstr ""
+
+#: inc/widgets/widgets.php:20 inc/widgets/widgets.php:35
+#: inc/widgets/widgets.php:49 inc/widgets/widgets.php:63
+#: inc/widgets/widgets.php:78
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/widgets/widgets.php:33
+msgid "Sidebar Movies single"
+msgstr ""
+
+#: inc/widgets/widgets.php:47
+msgid "Sidebar TVShows single"
+msgstr ""
+
+#: inc/widgets/widgets.php:61
+msgid "Sidebar Seasons single"
+msgstr ""
+
+#: inc/widgets/widgets.php:76
+msgid "Sidebar Posts single"
+msgstr ""
+
+#: inc/widgets/widgets.php:92
+msgid "[widgetgenre] Genres"
+msgstr ""
+
+#: inc/widgets/widgets.php:94
+msgid "Only widgets for the genres in home modules."
+msgstr ""
+
+#: pages/account.php:23
+msgid "You do not have permission to access this page"
+msgstr ""
+
+#: pages/account.php:23
+msgid "Module disabled"
+msgstr ""
+
+#: pages/contact.php:27
+#, fuzzy
+#| msgid "Contact support page."
+msgid "Contact form"
+msgstr "Support über das Kontaktformular kontaktieren."
+
+#: pages/contact.php:31
+msgid "Message sent, at any time one of our operators will contact you."
+msgstr ""
+
+#: pages/contact.php:37
+msgid "Contact Form"
+msgstr ""
+
+#: pages/contact.php:38
+msgid ""
+"Have something to notify our support team, please do not hesitate to use "
+"this form."
+msgstr ""
+
+#: pages/contact.php:57
+msgid "How can we help?"
+msgstr ""
+
+#: pages/contact.php:61
+msgid "Your message"
+msgstr ""
+
+#: pages/contact.php:62
+msgid "The more descriptive you can be the better we can help."
+msgstr ""
+
+#: pages/contact.php:66
+msgid "Link Reference (optional)"
+msgstr ""
+
+#: pages/contact.php:70
+msgid "Send message"
+msgstr ""
+
+#: pages/letter.php:6 pages/search.php:62
+msgid "No results to show with"
+msgstr "Keine Ergebnisse für"
+
+#: pages/letter.php:9 pages/search.php:65
+msgid "Make sure all words are spelled correctly."
+msgstr "Stelle sicher, dass alle Wörter richtig geschrieben sind."
+
+#: pages/letter.php:10 pages/search.php:66
+msgid "Try different keywords."
+msgstr "Probiere andere Stichwörter aus."
+
+#: pages/letter.php:11 pages/search.php:67
+msgid "Try more general keywords."
+msgstr "Probiere allgemeinere Suchbegriffe."
+
+#: pages/search.php:2
+msgid "Results found:"
+msgstr "Suchergebnisse:"
+
+#: pages/search.php:34
+msgid "Post"
+msgstr ""
+
+#: pages/search.php:35
+msgid "Episode"
+msgstr ""
+
+#: pages/sections/account.php:58
+msgid "Seen"
+msgstr ""
+
+#: pages/sections/account.php:66
+msgid "My favorites"
+msgstr "Meine Favoriten"
+
+#: pages/sections/account.php:78
+msgid "Marked as view"
+msgstr ""
+
+#: pages/sections/account.php:94
+#, fuzzy
+#| msgid "Settings"
+msgid "pendings"
+msgstr "Einstellungen"
+
+#: pages/sections/account.php:109 pages/sections/account.php:131
+msgid "Status"
+msgstr ""
+
+#: pages/sections/account.php:151
+msgid "About"
+msgstr "Über mich"
+
+#: pages/sections/account.php:158
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: pages/sections/account.php:162
+msgid "First name"
+msgstr "Vorname"
+
+#: pages/sections/account.php:166 pages/sections/register-form.php:20
+msgid "Last name"
+msgstr "Nachname"
+
+#: pages/sections/account.php:170
+msgid "Display name publicly as"
+msgstr "Anzeigename"
+
+#: pages/sections/account.php:201
+msgid "Facebook url"
+msgstr ""
+
+#: pages/sections/account.php:205
+msgid "Twitter url"
+msgstr ""
+
+#: pages/sections/account.php:209
+msgid "Google+ url"
+msgstr ""
+
+#: pages/sections/account.php:215
+msgid "Description"
+msgstr ""
+
+#: pages/sections/account.php:221
+#, fuzzy
+#| msgid "Password"
+msgid "New password *"
+msgstr "Passwort"
+
+#: pages/sections/account.php:226
+msgid "Repeat password *"
+msgstr ""
+
+#: pages/sections/account.php:231
+msgid "Update account"
+msgstr "Speichern"
+
+#: pages/sections/dt_foot.php:5
+msgid "please wait..."
+msgstr ""
+
+#: pages/sections/login-form.php:11
+msgid "Stay logged in"
+msgstr ""
+
+#: pages/sections/login-form.php:16
+msgid "Don't you have an account yet?"
+msgstr ""
+
+#: pages/sections/login-form.php:16
+msgid "Sign up here"
+msgstr ""
+
+#: pages/sections/login-form.php:17
+msgid "I forgot my password"
+msgstr ""
+
+#: pages/sections/login.php:5
+msgid "FAILED: Try again!"
+msgstr ""
+
+#: pages/sections/register-form.php:7
+msgid "E-mail address"
+msgstr ""
+
+#: pages/sections/register-form.php:30
+msgid "Sign up"
+msgstr ""
+
+#: pages/sections/register-form.php:31
+msgid "Do you already have an account?"
+msgstr ""
+
+#: pages/sections/register-form.php:31
+msgid "Login here"
+msgstr ""
+
+#: pages/sections/register.php:3
+msgid "Sign up, it's free.."
+msgstr ""
+
+#: tag.php:18
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "DooPlay"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://doothemes.com/items/dooplay/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Dooplay is undoubtedly the best and most powerful framework, with access to "
+"a large volume of content with a single click, completely optimized."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Doothemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://doothemes.com/"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Add a display name"
+#~ msgid "Ad in player"
+#~ msgstr "Füge einen Anzeigenamen hinzu"
+
+#, fuzzy
+#~| msgid "Disable"
+#~ msgid "List table"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "Content published correctly.."
+#~ msgstr "Link(s) wurden veröffentlicht."
+
+#, fuzzy
+#~| msgid "Update account"
+#~ msgid "account"
+#~ msgstr "Speichern"
+
+#~ msgid "Seconds"
+#~ msgstr "Sekunden"
+
+#~ msgid "Please wait, redirecting page.."
+#~ msgstr "Bitte warten, du wirst automatisch weitergeleitet..."

@@ -1,0 +1,2201 @@
+[class~=dbmovies] [class~=toolbar] [class~=item] select {
+    height: 2.125pc;
+}
+
+#dbmvpage [class~=history], [class~=dbmovies] #dbmovies_response, [class~=dbmovies] [class~=toolbar], [class~=dbmovies] [class~=toolbar], [class~=dbmovies] nav[class~=dbmovies_menu], #dbmovies_response [class~=box] [class~=items] [class~=item] article [class~=imagen] img, [class~=dbmovies] #dbmvpage, [class~=dbmovies] [class~=settbox] fieldset[class~=setline] label {
+    width: 100%;
+}
+
+[class~=dbmovies] * {
+    -webkit-box-sizing: border-box;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    text-transform: none;
+}
+
+.dbmovies header a.settings {
+    margin-top: 11.25pt;
+}
+
+body.toplevel_page_dbmovies .notice {
+    display: none;
+}
+
+[class~=dbmovies] * {
+    -moz-box-sizing: border-box;
+}
+
+#dbmvpage .history .box, [class~=dbmovies] #dbmvpage, [class~=dbmovies] header h1[class~=title], [class~=dbmovies] header, [class~=dbmovies] nav[class~=dbmovies_menu], .dbmovies header a.settings, .dbmovies .toolbar .item, #dbmvpage [class~=history], [class~=dbmovies] #dbmovies_response, [class~=dbmovies] [class~=settbox] fieldset[class~=setline] label, [class~=dbmovies] [class~=toolbar], #dbmvpage [class~=history] [class~=box] ul li span {
+    float: left;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    display: inline-block;
+}
+
+[class~=dbmovies] *, [class~=dbmovies] [class~=toolbar] {
+    box-sizing: border-box;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] select {
+    padding-left: 10px;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] select {
+    padding-bottom: 0;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset input[type="text"][class~=red] {
+    border-left-color: #f6cd91;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] select {
+    padding-right: 10px;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span {
+    margin-right: .260416667in;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] span[class~=dashicons] {
+    font-size: 23.25pt;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu], #dbmovies_response .box .items .no-results {
+    padding-left: 0;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    margin-left: 0;
+}
+
+[class~=dbmovies] header h1[class~=title] {
+    margin-right: 10px;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a, #dbmvpage [class~=history] {
+    border-left-width: .75pt;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a, [class~=dbmovies] nav[class~=dbmovies_menu] h2 {
+    border-bottom-width: .0625pc;
+}
+
+#dbmvpage [class~=history], #dbmvpage [class~=history] [class~=box] ul li:last-child {
+    border-bottom-width: 0;
+}
+
+[class~=activate_dbmovies] {
+    float: right;
+}
+
+[class~=activate_dbmovies] {
+    padding-left: 3.75pt;
+}
+
+[class~=activate_dbmovies] {
+    padding-bottom: .125pc;
+}
+
+[class~=dbmovies] a {
+    text-decoration: none;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=setline] label, #dbmvpage [class~=history] [class~=box] ul li {
+    font-weight: 500;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2, #dbmvpage [class~=history] [class~=box] ul li span a {
+    border-bottom-style: solid;
+}
+
+.dbmovies nav.dbmovies_menu h2 a:first-child {
+    margin-left: 15pt;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article [class~=imagen] img {
+    height: auto;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] {
+    padding-bottom: 0;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 {
+    border-bottom-color: #ccc;
+}
+
+.dbmovies .settbox fieldset select, #dbmvpage .history .box, #dbmovies_response .box .items .item article .imagen, [class~=dbmovies] header {
+    width: 100%;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li {
+    font-size: .135416667in;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 a[class~=nav-tab-active] {
+    background: #fff;
+}
+
+#dbmvpage [class~=history], #dbmvpage [class~=history] [class~=box] ul li span a {
+    border-right-width: .75pt;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    margin-bottom: 0;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=setline] label {
+    margin-bottom: 11.25pt;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 {
+    border-image: none;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    margin-right: 0;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] span[class~=dashicons] {
+    height: .3125in;
+}
+
+#dbmovies_response .box .items .no-results, [class~=dbmovies] [class~=toolbar] p {
+    text-align: center;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    margin-top: 0;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] {
+    padding-right: 0;
+}
+
+[class~=dbmovies] [class~=toolbar], span[class~=keyboard], [class~=dbmovies] [class~=settbox] fieldset[class~=setline] {
+    padding-left: 7.5pt;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a, [class~=dbmovies] [class~=toolbar] {
+    border-top-width: .75pt;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    padding-bottom: 0;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] {
+    padding-top: 0in;
+}
+
+[class~=dbmovies] header {
+    margin-bottom: 25px;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    padding-right: 7.5pt;
+}
+
+[class~=dbmovies] [class~=toolbar], [class~=dbmovies] [class~=toolbar] [class~=item] select {
+    padding-top: 0;
+}
+
+[class~=activate_dbmovies] {
+    padding-right: 3.75pt;
+}
+
+[class~=activate_dbmovies] {
+    padding-top: .125pc;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+}
+
+.dbmovies .settbox fieldset select {
+    height: 2.125pc;
+}
+
+[class~=activate_dbmovies] {
+    background: #eaeaea;
+}
+
+[class~=dbmovies] [class~=toolbar], #dbmvpage [class~=history] [class~=box] ul li span a {
+    border-left-style: solid;
+}
+
+[class~=activate_dbmovies] {
+    color: #444450;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span {
+    font-weight: 400;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="number"][class~=year] {
+    width: 100px;
+}
+
+[class~=dbmovies] header {
+    margin-top: -.208333333in;
+}
+
+[class~=dbmovies] [class~=toolbar] p {
+    font-size: 15pt;
+}
+
+[class~=activate_dbmovies] {
+    letter-spacing: .005208333in;
+}
+
+[class~=dbmovies] [class~=toolbar], [class~=activate_dbmovies] {
+    border-left-width: .0625pc;
+}
+
+[class~=dbimported] article [class~=imagen] img {
+    opacity: 1;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article [class~=imagen] img {
+    margin-top: -140%;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li, [class~=dbmovies] [class~=toolbar], [class~=activate_dbmovies] {
+    border-bottom-width: .0625pc;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    content: "";
+}
+
+[class~=dbmovies] [class~=settbox] fieldset input[type="text"][class~=red] {
+    border-bottom-color: #f6cd91;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    font-family: dashicons;
+}
+
+#dbmvpage [class~=history] [class~=box] ul {
+    float: left;
+}
+
+[class~=dbmovies] p[class~=no-data], #dbmovies_response [class~=box] [class~=items] [class~=no-results] p {
+    font-size: 25px;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=setline] label {
+    font-size: .166666667in;
+}
+
+.dbmovies .settbox fieldset.pro label a {
+    float: right;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li {
+    border-bottom-style: dashed;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=setline] {
+    padding-bottom: 11.25pt;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    text-rendering: auto;
+}
+
+[class~=dbmovies] [class~=toolbar] p {
+    color: #bad3df;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li {
+    border-bottom-color: #e5e5e5;
+}
+
+[class~=dbmovies] [class~=toolbar], [class~=activate_dbmovies] {
+    border-right-width: .0625pc;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    -webkit-font-smoothing: antialiased;
+}
+
+[class~=dbimported] article [class~=imagen]:before, .dbmovies .toolbar .item {
+    padding-left: .052083333in;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    color: #666;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset input[type="text"][class~=red] {
+    border-right-color: #f6cd91;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=setline] label {
+    color: #000;
+}
+
+.dbmovies .settbox fieldset.pro label a {
+    font-size: 7.5pt;
+}
+
+#dbmvpage [class~=history] {
+    border-top-width: 0;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article [class~=imagen] img, [class~=dbimported] article [class~=imagen]:before {
+    position: absolute;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] span[class~=dashicons] {
+    width: 1.875pc;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    top: 0;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=no-results] p, [class~=dbmovies] p[class~=no-data] {
+    font-weight: 300;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span {
+    color: #a7a7a7;
+}
+
+#dbmovies_response .box .items .item article .imagen {
+    height: 100%;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] ul li a:hover {
+    color: #00a0d2;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li:last-child, #dbmvpage [class~=history] {
+    border-bottom-style: none;
+}
+
+span[class~=keyboard], [class~=dbimported] article [class~=imagen]:before {
+    padding-bottom: 2px;
+}
+
+#dbmovies_response .box .items .no-results {
+    padding-bottom: 41.25pt;
+}
+
+[class~=dbmovies] [class~=toolbar], #dbmvpage [class~=history], [class~=activate_dbmovies], #dbmvpage [class~=history] [class~=box] ul li span a {
+    border-right-style: solid;
+}
+
+#dbmvpage .history .box {
+    max-height: 117pt;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=setline], span[class~=keyboard] {
+    padding-right: .104166667in;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    left: 0;
+}
+
+[class~=activate_dbmovies], #dbmvpage [class~=history] {
+    border-left-style: solid;
+}
+
+[class~=activate_dbmovies], [class~=dbmovies] [class~=toolbar] {
+    border-bottom-style: solid;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    z-index: 1;
+}
+
+[class~=activate_dbmovies] {
+    border-top-width: 1px;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset input[type="text"][class~=red] {
+    border-top-color: #f6cd91;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=setline] {
+    padding-top: 0;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    font-style: normal;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 a {
+    padding-left: .520833333in;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    margin-left: 0;
+}
+
+.dbmovies .settbox fieldset.pro label {
+    width: 100%;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    margin-bottom: 0;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    color: #fff;
+}
+
+.dbmovies .toolbar .item {
+    padding-bottom: .135416667in;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    margin-right: 0;
+}
+
+.dbmovies .settbox fieldset.pro label, #dbmovies_response .box .items .item article .imagen, [class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"] {
+    float: left;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a, [class~=activate_dbmovies], [class~=dbmovies] [class~=toolbar] {
+    border-top-style: solid;
+}
+
+[class~=dbmovies] [class~=toolbar], #dbmvpage [class~=history] {
+    border-left-color: #e5e5e5;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    border-bottom-color: #e5e5e5;
+}
+
+.dbmovies .settbox fieldset.pro label, [class~=dbmovies] [class~=settbox] fieldset[class~=setline] {
+    margin-bottom: 11.25pt;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    padding-right: .052083333in;
+}
+
+.dbmovies .settbox fieldset.pro label {
+    font-weight: 500;
+}
+
+#dbmovies_response .box .items .no-results {
+    padding-right: 0;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    border-left-color: #8cba56;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    border-right-color: #e5e5e5;
+}
+
+span[class~=keyboard] {
+    padding-top: 2px;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    padding-top: 5px;
+}
+
+[class~=activate_dbmovies] {
+    border-left-color: #ccc;
+}
+
+.dbmovies .settbox fieldset.pro label {
+    font-size: .166666667in;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 a {
+    padding-bottom: .041666667in;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span, .dbmovies .settbox fieldset.pro label a {
+    text-transform: uppercase;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"][class~=search] {
+    margin-right: .052083333in;
+}
+
+#dbmovies_response .box .items .item article .imagen {
+    position: relative;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    margin-top: 0;
+}
+
+[class~=activate_dbmovies] {
+    border-bottom-color: #ccc;
+}
+
+[class~=activate_dbmovies] {
+    border-right-color: #ccc;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    border-bottom-color: #8cba56;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"] {
+    position: absolute;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    border-top-color: #e5e5e5;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    font-size: 17.25pt;
+}
+
+[class~=dbimported] article [class~=imagen]:before {
+    background: #24b72a;
+}
+
+[class~=dbmovies] [class~=toolbar], #dbmvpage [class~=history] [class~=box] ul li {
+    border-image: none;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    color: #555;
+}
+
+[class~=activate_dbmovies] {
+    border-top-color: #ccc;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    content: "";
+}
+
+[class~=activate_dbmovies] {
+    border-image: none;
+}
+
+#dbmvpage [class~=history] {
+    border-top-style: none;
+}
+
+[class~=dbmovies] [class~=toolbar] {
+    font-size: .135416667in;
+}
+
+[class~=activate_dbmovies] {
+    margin-bottom: 3.75pt;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article, .dbmovies .settbox fieldset.pro {
+    padding-left: .104166667in;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    border-right-color: #8cba56;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li {
+    padding-bottom: 7.5pt;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] ul li a[class~=active], #dbmovies_response .box .paginate ul li a {
+    background: #f7f7f7;
+}
+
+.dbmovies .settbox fieldset.pro {
+    padding-bottom: 11.25pt;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    font-family: dashicons;
+}
+
+[class~=dbmovies] [class~=toolbar], span[class~=keyboard] {
+    background: #fff;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=no-results] p {
+    font-style: normal;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li:last-child, #dbmvpage [class~=history] {
+    border-bottom-color: currentColor;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    text-rendering: auto;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    padding-left: .208333333in;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"] {
+    top: .125in;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    border-top-color: #8cba56;
+}
+
+.dbmovies .settbox fieldset.pro {
+    padding-right: .625pc;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    -webkit-font-smoothing: antialiased;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"] {
+    left: 12px;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"], .dbmovies .settbox fieldset input[type="text"] {
+    height: .354166667in;
+}
+
+[class~=dbmovies] [class~=dual] {
+    border-top-width: 0 !important;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    font-weight: 500;
+}
+
+.dbmovies .settbox fieldset.pro label {
+    color: #000;
+}
+
+[class~=online] {
+    color: #8bc34a;
+}
+
+[class~=dbmovies] [class~=dual] {
+    border-top-style: none !important;
+}
+
+.dbmovies .toolbar .item {
+    padding-right: .052083333in;
+}
+
+[class~=offline] {
+    color: crimson;
+}
+
+[class~=dbmovies] [class~=dual] {
+    border-top-color: currentColor !important;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article {
+    padding-bottom: .625pc;
+}
+
+.dbmovies .toolbar .item, #dbmovies_response .box .paginate ul li a {
+    padding-top: .135416667in;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] ul li a[class~=active] {
+    color: #0073aa;
+}
+
+[class~=dbclick] {
+    opacity: .3;
+}
+
+[class~=cimport] {
+    z-index: 2;
+}
+
+.dbmovies .settbox fieldset.pro {
+    padding-top: 0;
+}
+
+span[class~=keyboard] {
+    border-left-width: .010416667in;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    font-size: .260416667in;
+}
+
+[class~=dbmovies] [class~=dual] {
+    border-image: none !important;
+}
+
+[class~=dbmovies] [class~=right] {
+    float: right !important;
+}
+
+[class~=cimport], [class~=dbimport] article [class~=imagen]:before {
+    position: absolute;
+}
+
+.dbmovies .settbox fieldset input[type="text"], [class~=cimport], #dbmvpage [class~=history] [class~=box] ul {
+    width: 100%;
+}
+
+[class~=dbimport] article [class~=imagen]:before, [class~=cimport] {
+    top: 0;
+}
+
+#dbmvpage .history .box {
+    overflow-y: scroll;
+}
+
+.dbmovies .settbox, #dbmovies_response [class~=box] [class~=paginate] ul li {
+    float: left;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    padding-bottom: .135416667in;
+}
+
+[class~=dbimport] article [class~=imagen]:before, [class~=cimport] {
+    left: 0;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"] {
+    margin-left: 0;
+}
+
+.dbmovies .settbox fieldset.pro label a {
+    background: #4caf50;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    border-left-color: #ddd;
+}
+
+.dbmovies .settbox {
+    width: 37.5pc;
+}
+
+span[class~=keyboard] {
+    border-bottom-width: .010416667in;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    padding-right: .208333333in;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    height: 33.75pt;
+}
+
+#dbmvpage [class~=history] {
+    border-right-color: #e5e5e5;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    padding-left: 0;
+}
+
+span[class~=keyboard] {
+    border-right-width: .010416667in;
+}
+
+.dbmovies .settbox fieldset input[type="text"].keyva {
+    color: #4caf50;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"], .dbmovies .settbox fieldset input[type="text"] {
+    padding-left: 7.5pt;
+}
+
+[class~=cimport] {
+    height: 100%;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    z-index: 1;
+}
+
+[class~=cimport] {
+    cursor: pointer;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li {
+    padding-left: 11.25pt;
+}
+
+[class~=dbmovies] p[class~=no-data], [class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"], .dbmovies .settbox fieldset input[type="text"] {
+    padding-bottom: 0;
+}
+
+span[class~=keyboard] {
+    border-top-width: .010416667in;
+}
+
+[class~=dbimport] article [class~=imagen]:before, .dbmovies .settbox fieldset.pro label a {
+    color: #fff;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    padding-right: 0;
+}
+
+#dbmvpage .history .box, .dbmovies .settbox {
+    background: #fff;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    padding-left: .052083333in;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    padding-bottom: .020833333in;
+}
+
+.dbmovies .settbox {
+    -webkit-box-shadow: 0 .052083333in .260416667in rgba(0, 0, 0, .7);
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    border-bottom-color: #ddd;
+}
+
+[class~=genres] {
+    display: none;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    padding-top: 75pt;
+}
+
+[class~=dbmovies] p[class~=no-data] {
+    text-align: center;
+}
+
+#dbmvpage [class~=history] {
+    border-top-color: currentColor;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    padding-right: .3125pc;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=saving] {
+    opacity: .5;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    padding-top: 5px;
+}
+
+#dbmvpage .history .box {
+    padding-left: .416666667in;
+}
+
+.dbmovies .settbox {
+    box-shadow: 0 .052083333in 18.75pt rgba(0, 0, 0, .7);
+}
+
+span[class~=keyboard] {
+    border-left-style: solid;
+}
+
+.dbmovies .settbox {
+    margin-left: -3.125in;
+}
+
+[class~=current_genres] {
+    display: block !important;
+}
+
+.dbmovies .settbox, .dbmovies .toolbar .item {
+    margin-bottom: 0;
+}
+
+[class~=fadeInDown] {
+    animation: fadeInDown ease 1s;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    border-right-color: #ddd;
+}
+
+.dbmovies .settbox {
+    margin-right: 0;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    color: #414141;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset:last-child {
+    border-bottom-width: 0;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert {
+    border-left-color: #ffc107;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset, #dbmovies_response .box .paginate ul {
+    float: left;
+}
+
+#dbmvpage [class~=history] [class~=box] ul {
+    color: #676a6d;
+}
+
+.dbmovies .settbox {
+    margin-top: 0;
+}
+
+#dbmvpage [class~=history] [class~=box] ul {
+    list-style: square;
+}
+
+.dbmovies .toolbar .item {
+    margin-left: 0;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article, .dbmovies .settbox fieldset input[type="text"] {
+    padding-right: 7.5pt;
+}
+
+[class~=fadeInDown] {
+    animation-iteration-count: 1;
+}
+
+.dbmovies .settbox {
+    padding-left: .208333333in;
+}
+
+span[class~=keyboard] {
+    border-bottom-style: solid;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert {
+    border-bottom-color: #ffc107;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset:last-child {
+    border-bottom-style: none;
+}
+
+.dbmovies .settbox {
+    padding-bottom: .208333333in;
+}
+
+#dbmvpage .history .box {
+    padding-bottom: .104166667in;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset:last-child {
+    border-bottom-color: currentColor;
+}
+
+span[class~=keyboard] {
+    border-right-style: solid;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    font-size: 15pt;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset:last-child, #dbmvpage [class~=history] {
+    border-image: none;
+}
+
+span[class~=keyboard] {
+    border-top-style: solid;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    background: #673ab7;
+}
+
+[class~=dbimport] article [class~=imagen]:before {
+    visibility: hidden;
+}
+
+#dbmovies_response .box .paginate ul {
+    padding-left: 0;
+}
+
+.dbmovies .settbox {
+    padding-right: .208333333in;
+}
+
+[class~=fadeInDown] {
+    transform-origin: 50% 50%;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    content: "";
+}
+
+#dbmvpage .history .box {
+    padding-right: .416666667in;
+}
+
+.dbmovies .settbox {
+    padding-top: .208333333in;
+}
+
+[class~=fadeInDown] {
+    animation-fill-mode: forwards;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    font-family: dashicons;
+}
+
+#dbmvpage .history .box {
+    padding-top: .104166667in;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 a {
+    padding-right: .520833333in;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    text-rendering: auto;
+}
+
+.dbmovies .settbox {
+    display: none;
+}
+
+#dbmovies_response .box .items .item article .imagen {
+    overflow: hidden;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert, #dbmovies_response .box .paginate ul li a {
+    font-weight: 500;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    border-top-color: #ddd;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    -webkit-font-smoothing: antialiased;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] ul li {
+    margin-right: 0;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class~=fadeInDown] {
+    -webkit-animation: fadeInDown ease 1s;
+}
+
+[class~=fadeInDown] {
+    -webkit-animation-iteration-count: 1;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert {
+    border-right-color: #ffc107;
+}
+
+.dbmovies .settbox, [class~=preimport] article [class~=imagen]:before {
+    position: absolute;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    top: 0;
+}
+
+[class~=fadeInDown] {
+    -webkit-transform-origin: 50% 50%;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset:last-child, #dbmovies_response [class~=box] [class~=paginate] ul li {
+    margin-bottom: 0;
+}
+
+[class~=fadeInDown] {
+    -webkit-animation-fill-mode: forwards;
+}
+
+.dbmovies .settbox fieldset.pro label a, #dbmvpage [class~=history] [class~=box] ul li span a {
+    padding-left: .625pc;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    left: 0;
+}
+
+span[class~=keyboard] {
+    border-left-color: #ccc;
+}
+
+#dbmvpage .history .box {
+    box-shadow: 0 10px .052083333in -7px rgba(0, 0, 0, .09);
+}
+
+[class~=fadeInDown] {
+    -moz-animation: fadeInDown ease 1s;
+}
+
+span[class~=keyboard] {
+    border-bottom-color: #ccc;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    z-index: 1;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    color: #fff;
+}
+
+span[class~=keyboard] {
+    border-right-color: #ccc;
+}
+
+#dbmvpage [class~=history] {
+    margin-bottom: 25px;
+}
+
+.dbmovies .settbox fieldset input[type="text"], [class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"] {
+    padding-top: 0;
+}
+
+[class~=fadeInDown] {
+    -moz-animation-iteration-count: 1;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    border-image: none;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"], .dbmovies .settbox fieldset.pro label a {
+    padding-right: .104166667in;
+}
+
+#dbmovies_response [class~=box] [class~=head], #dbmovies_response [class~=box], [class~=dbmovies] [class~=settbox] fieldset, .dbmovies .settbox fieldset.check article {
+    width: 100%;
+}
+
+.dbmovies .settbox {
+    z-index: 1000;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 a {
+    padding-top: .041666667in;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert {
+    border-top-color: #ffc107;
+}
+
+#dbmovies_response [class~=box], [class~=preimport] article [class~=imagen]:before, [class~=dbmovies_app] [class~=spinebox], .dbmovies .settbox fieldset.check article {
+    float: left;
+}
+
+.dbmovies .settbox fieldset.pro label a, #dbmovies_response .box .paginate ul {
+    padding-bottom: 0;
+}
+
+.dbmovies .toolbar .item {
+    margin-right: 0;
+}
+
+[class~=fadeInDown] {
+    -moz-transform-origin: 50% 50%;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    padding-left: .072916667in;
+}
+
+.dbmovies .settbox {
+    top: .4375in;
+}
+
+[class~=fadeInDown] {
+    -moz-animation-fill-mode: forwards;
+}
+
+#dbmovies_response .box .items .item article .imagen, #dbmovies_response .box .items .item article .data h3, [class~=preimport] article [class~=imagen]:before {
+    margin-left: 0;
+}
+
+.dbmovies .settbox {
+    left: 50%;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    position: fixed;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset {
+    padding-bottom: 11.25pt;
+}
+
+.dbmovies .settbox fieldset.check article {
+    position: relative;
+}
+
+[class~=dbmovies_app] [class~=spinebox], [class~=preimport] article [class~=imagen]:before {
+    padding-bottom: .072916667in;
+}
+
+[class~=fadeInDown] {
+    -o-animation: fadeInDown ease 1s;
+}
+
+.dbmovies .settbox fieldset.check article {
+    line-height: 40px;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    cursor: pointer;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    top: 0;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    left: 0;
+}
+
+[class~=fadeInDown] {
+    -o-animation-iteration-count: 1;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    right: 0;
+}
+
+[class~=fadeInDown] {
+    -o-transform-origin: 50% 50%;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    bottom: 0;
+}
+
+.dbmovies .settbox fieldset.check article {
+    padding-left: 30pt;
+}
+
+.dbmovies .toolbar .item, [class~=preimport] article [class~=imagen]:before {
+    margin-top: 0;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    min-height: 360px;
+}
+
+[class~=fadeInDown] {
+    -o-animation-fill-mode: forwards;
+}
+
+[class~=dbmovies_app] [class~=spinebox], [class~=preimport] article [class~=imagen]:before {
+    padding-right: .072916667in;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    padding-top: .072916667in;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset {
+    margin-bottom: 11.25pt;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    font-size: .208333333in;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    background: #000;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    opacity: .7;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    z-index: 999;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert {
+    font-size: 17.25pt;
+}
+
+.dbmovies .settbox fieldset.check article {
+    background: #f9f9f9;
+}
+
+span[class~=keyboard] {
+    border-top-color: #ccc;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    padding-bottom: .010416667in;
+}
+
+[class~=fadeInDown] {
+    -ms-animation: fadeInDown ease 1s;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    font-weight: 300;
+}
+
+[class~=fadeInDown] {
+    -ms-animation-iteration-count: 1;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset:last-child {
+    padding-bottom: 0;
+}
+
+span[class~=keyboard] {
+    border-image: none;
+}
+
+[class~=dbmovies] [class~=dbmovies_sett_modal] {
+    display: none;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    padding-right: .625pc;
+}
+
+#dbmovies_response [class~=box] [class~=head], #dbmovies_response .box .items {
+    float: left;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert {
+    height: .46875in;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article {
+    padding-top: .625pc;
+}
+
+.dbmovies .settbox fieldset.pro label a, #dbmovies_response [class~=box] {
+    padding-top: 0;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="number"] {
+    height: .354166667in;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset {
+    border-bottom-width: .0625pc;
+}
+
+#dbmovies_response [class~=box] [class~=head] {
+    padding-bottom: 1.25pc;
+}
+
+[class~=dbmovies_app] [class~=spinebox] {
+    padding-left: 5.25pt;
+}
+
+#dbmovies_response .box .items .item article .imagen, [class~=preimport] article [class~=imagen]:before {
+    margin-bottom: 0;
+}
+
+#dbmovies_response .box .items .item article .data h3, [class~=preimport] article [class~=imagen]:before, #dbmovies_response .box .items .item article .imagen {
+    margin-right: 0;
+}
+
+span[class~=keyboard], .dbmovies .settbox fieldset.pro label a {
+    font-weight: 500;
+}
+
+[class~=fadeInDown] {
+    -ms-transform-origin: 50% 50%;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    -moz-animation: spin 2s infinite linear;
+}
+
+#dbmovies_response .box .items .item article .data h3 {
+    margin-bottom: 3.75pt;
+}
+
+[class~=fadeInDown] {
+    -ms-animation-fill-mode: forwards;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset {
+    border-bottom-style: solid;
+}
+
+#dbmovies_response .box .items, #dbmovies_response .loading {
+    width: 100%;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] span[class~=info], [class~=dbmovies] [class~=settbox] fieldset a[class~=button-secundary] {
+    float: right;
+}
+
+[class~=jump] {
+    animation: jumpFrames linear .8s;
+}
+
+#dbmovies_response .box .items, #dbmovies_response [class~=box] {
+    padding-left: 0;
+}
+
+[class~=jump] {
+    animation-iteration-count: 1;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    -o-animation: spin 2s infinite linear;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    -webkit-animation: spin 2s infinite linear;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    text-transform: uppercase;
+}
+
+.dbmovies .settbox fieldset.check article, #dbmvpage [class~=history] [class~=box] ul li span a {
+    border-radius: 3px;
+}
+
+[class~=jump] {
+    transform-origin: 50% 50%;
+}
+
+.dbmovies .settbox fieldset input[type="text"].alert {
+    color: #ffc107;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="number"] {
+    padding-left: .104166667in;
+}
+
+[class~=jump] {
+    -webkit-animation: jumpFrames linear .8s;
+}
+
+#dbmovies_response [class~=box], [class~=dbmovies] [class~=toolbar] [class~=item] input[type="number"] {
+    padding-bottom: 0;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a {
+    padding-top: .010416667in;
+}
+
+[class~=dbmovies_app] [class~=spinebox] {
+    padding-top: 5.25pt;
+}
+
+span[class~=keyboard] {
+    color: #00a0d2;
+}
+
+header:before {
+    padding-left: 3.75pt;
+}
+
+header:before {
+    padding-bottom: 3.75pt;
+}
+
+header:before {
+    padding-right: 3.75pt;
+}
+
+header:before {
+    padding-top: 3.75pt;
+}
+
+header:before {
+    margin-bottom: 6pt;
+}
+
+header:before {
+    background-color: #f7e862;
+}
+
+header:before {
+    text-align: center;
+}
+
+header:before {
+    display: block;
+}
+
+header:before {
+    border-top-width: 1px;
+}
+
+header:before {
+    border-top-style: solid;
+}
+
+header:before {
+    border-top-color: #000;
+}
+
+header:before {
+    border-image: none;
+}
+
+header:before {
+    border-bottom-width: .75pt;
+}
+
+header:before {
+    border-bottom-style: solid;
+}
+
+header:before {
+    border-bottom-color: #000;
+}
+
+header:before {
+    font-size: .125in;
+}
+
+
+
+header:before {
+    white-space: pre-wrap;
+}
+
+header:before {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header:before {
+    width: 100%;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    font-size: .6875pc;
+}
+
+#dbmovies_response .box .items, #dbmovies_response [class~=box], #dbmovies_response .box .paginate ul {
+    padding-right: 0;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset {
+    border-bottom-color: #f1f1f1;
+}
+
+#dbmovies_response .box .items {
+    padding-bottom: 15pt;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=check] article:hover {
+    background: #f5f5f5;
+}
+
+.dbmovies .settbox fieldset.pro label a {
+    letter-spacing: .005208333in;
+}
+
+[class~=jump] {
+    -webkit-animation-iteration-count: 1;
+}
+
+[class~=preimport] article [class~=imagen]:before {
+    animation: spin 2s infinite linear;
+}
+
+.dbmovies .settbox fieldset.check article {
+    margin-bottom: .104166667in;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset[class~=check] article:last-child {
+    margin-bottom: 0;
+}
+
+span[class~=keyboard] {
+    width: 3.125pc;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 a, #dbmvpage [class~=history] [class~=box] ul li span a {
+    font-size: .125in;
+}
+
+[class~=preimport] article [class~=imagen]:before, span[class~=keyboard] {
+    display: inline-block;
+}
+
+[class~=jump] {
+    -webkit-transform-origin: 50% 50%;
+}
+
+[class~=preimport] article [class~=imagen] img {
+    opacity: .3;
+}
+
+#dbmovies_response .box .items {
+    padding-top: 15pt;
+}
+
+[class~=dbimported]:hover > article [class~=imagen] img {
+    opacity: 1;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] span[class~=info] {
+    padding-left: 9.75pt;
+}
+
+[class~=jump] {
+    -moz-animation: jumpFrames linear .8s;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="number"], #dbmovies_response .box .paginate ul {
+    padding-top: 0;
+}
+
+[class~=jump] {
+    -moz-animation-iteration-count: 1;
+}
+
+#dbmovies_response .box .items .item article .data h3 {
+    margin-top: 3.75pt;
+}
+
+[class~=jump] {
+    -moz-transform-origin: 50% 50%;
+}
+
+[class~=dbimport]:hover > article [class~=imagen]:before {
+    visibility: initial;
+}
+
+span[class~=keyboard] {
+    text-align: center;
+}
+
+[class~=jump] {
+    -o-animation: jumpFrames linear .8s;
+}
+
+[class~=jump] {
+    -o-animation-iteration-count: 1;
+}
+
+#dbmovies_response .loading, #dbmovies_response [class~=box] [class~=items] [class~=item] article [class~=data], [class~=dbmovies] [class~=settbox] fieldset[class~=check] article label, #dbmovies_response .box .paginate ul li a, #dbmovies_response .box .items .item article .data h3, #dbmovies_response .box .paginate, [class~=dbmovies_app] [class~=spinebox] span, #dbmovies_response [class~=box] [class~=items] [class~=item] {
+    float: left;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    border-right-width: .75pt;
+}
+
+[class~=dbmovies] [class~=settbox] fieldset, #dbmvpage [class~=history] [class~=box] ul li:last-child {
+    border-image: none;
+}
+
+.dbimported article .imagen {
+    background: #000 !important;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] span[class~=info] {
+    padding-bottom: 9.75pt;
+}
+
+[class~=dbmovies] nav[class~=dbmovies_menu] h2 a {
+    cursor: pointer;
+}
+
+[class~=jump] {
+    -o-transform-origin: 50% 50%;
+}
+
+[class~=jump] {
+    -ms-animation: jumpFrames linear .8s;
+}
+
+#dbmovies_response .box .items {
+    margin-left: -7.5pt;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] article [class~=data], #dbmovies_response .box .paginate, #dbmovies_response .box .items .item article .data h3, [class~=dbmovies] [class~=settbox] fieldset[class~=check] article label {
+    width: 100%;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li span a, [class~=dbmovies] [class~=settbox] fieldset[class~=check] article label {
+    font-weight: 500;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    border-right-style: solid;
+}
+
+[class~=jump] {
+    -ms-animation-iteration-count: 1;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="number"] {
+    padding-right: .104166667in;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"][class~=search] {
+    width: 9.375pc;
+}
+
+[class~=dbmovies_app] [class~=spinebox] span, #dbmovies_response .box .items .item article .imagen {
+    margin-top: 0;
+}
+
+span[class~=keyboard] {
+    margin-right: .625pc;
+}
+
+[class~=jump] {
+    -ms-transform-origin: 50% 50%;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] span[class~=info] {
+    padding-right: 9.75pt;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    border-right-color: #f1f1f1;
+}
+
+#dbmovies_response .box .paginate ul, [class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"], [class~=dbmovies_app] [class~=spinebox] span {
+    margin-bottom: 0;
+}
+
+#dbmovies_response .box .paginate {
+    padding-left: 0;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="submit"], [class~=dbmovies] [class~=toolbar] [class~=item] input[type="button"] {
+    height: 25.5pt;
+}
+
+#dbmovies_response .loading {
+    padding-left: 40px;
+}
+
+#dbmovies_response .loading {
+    padding-bottom: 3.125pc;
+}
+
+#dbmovies_response .box .items .no-results {
+    padding-top: 41.25pt;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] span[class~=info] {
+    padding-top: 9.75pt;
+}
+
+[class~=dbmovies_app] [class~=spinebox] span {
+    visibility: inherit;
+}
+
+#dbmovies_response .box .paginate {
+    padding-bottom: 0;
+}
+
+[class~=dbmovies_app] [class~=spinebox] span, #dbmovies_response .box .paginate ul {
+    margin-left: 0;
+}
+
+#dbmovies_response .box .paginate ul li a {
+    border-image: none;
+}
+
+#dbmovies_response .box .paginate {
+    padding-right: 0;
+}
+
+#dbmovies_response .loading {
+    padding-right: 40px;
+}
+
+#dbmovies_response .box .paginate {
+    padding-top: 0;
+}
+
+#dbmovies_response [class~=box] [class~=items] [class~=item] {
+    width: 1.458333333in;
+}
+
+#dbmovies_response .box .paginate {
+    background: #f7f7f7;
+}
+
+#dbmovies_response .loading {
+    padding-top: 3.125pc;
+}
+
+#dbmovies_response .box .items .item article .data h3 {
+    font-size: .145833333in;
+}
+
+#dbmovies_response .box .items .item article .imagen {
+    padding-top: 140%;
+}
+
+#dbmovies_response .loading {
+    font-size: 22.5pt;
+}
+
+#dbmovies_response .box .items .item article .data h3 {
+    text-overflow: ellipsis;
+}
+
+#dbmovies_response .box .items .item article .data h3 {
+    white-space: nowrap;
+}
+
+#dbmovies_response .box .items .item article .imagen {
+    background: #ebebeb;
+}
+
+#dbmvpage [class~=history] [class~=box] ul li:last-child {
+    padding-bottom: 0;
+}
+
+#dbmovies_response .box .paginate ul, [class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"], [class~=dbmovies_app] [class~=spinebox] span {
+    margin-right: 0;
+}
+
+#dbmovies_response [class~=box] [class~=paginate] ul li a[class~=active]:hover {
+    color: #000;
+}
+
+[class~=preimport] article [class~=imagen] {
+    background: #000 !important;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"][class~=search] {
+    font-size: 15px;
+}
+
+#dbmovies_response .box .items .item article .data h3 {
+    overflow: hidden;
+}
+
+[class~=dbmovies] [class~=toolbar] [class~=item] input[type="text"][class~=search] {
+    font-weight: normal;
+}
+
+#dbmovies_response .box .items .item article .data span {
+    font-size: 9pt;
+}
+
+#dbmovies_response .box .items .item article .data span {
+    color: #737373;
+}
+
+#dbmovies_response .box .paginate ul, [class~=dbmovies] [class~=settbox] fieldset[class~=check] article input[type="checkbox"] {
+    margin-top: 0;
+}
+
+@-moz-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@-o-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@-ms-keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -moz-transform: rotate(359deg);
+        -o-transform: rotate(359deg);
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@-webkit-keyframes fadeInDown {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -100%, 0);
+        transform: translate3d(0, -100%, 0);
+    }
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -100%, 0);
+        transform: translate3d(0, -100%, 0);
+    }
+    to {
+        opacity: 1;
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+::-webkit-input-placeholder {
+    color: #e3e4ea;
+}
+
+::-moz-placeholder {
+    color: #e3e4ea;
+}
+
+:-ms-input-placeholder {
+    color: #e3e4ea;
+}
+
+:-moz-placeholder {
+    color: #e3e4ea;
+}
+
+@keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        transform: translate(0px, -25px);
+    }
+    100% {
+        opacity: 1;
+        transform: translate(0px, 0px);
+    }
+}
+
+@-moz-keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        -moz-transform: translate(0px, -25px);
+    }
+    100% {
+        opacity: 1;
+        -moz-transform: translate(0px, 0px);
+    }
+}
+
+@-webkit-keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        -webkit-transform: translate(0px, -25px);
+    }
+    100% {
+        opacity: 1;
+        -webkit-transform: translate(0px, 0px);
+    }
+}
+
+@-o-keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        -o-transform: translate(0px, -25px);
+    }
+    100% {
+        opacity: 1;
+        -o-transform: translate(0px, 0px);
+    }
+}
+
+@-ms-keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        -ms-transform: translate(0px, -25px);
+    }
+    100% {
+        opacity: 1;
+        -ms-transform: translate(0px, 0px);
+    }
+}
+
+@keyframes jumpFrames {
+    0% {
+        transform: translate(0px, 0px);
+    }
+    15% {
+        transform: translate(0px, -25px);
+    }
+    30% {
+        transform: translate(0px, 0px);
+    }
+    45% {
+        transform: translate(0px, -15px);
+    }
+    60% {
+        transform: translate(0px, 0px);
+    }
+    75% {
+        transform: translate(0px, -5px);
+    }
+    100% {
+        transform: translate(0px, 0px);
+    }
+}
+
+@-moz-keyframes jumpFrames {
+    0% {
+        -moz-transform: translate(0px, 0px);
+    }
+    15% {
+        -moz-transform: translate(0px, -25px);
+    }
+    30% {
+        -moz-transform: translate(0px, 0px);
+    }
+    45% {
+        -moz-transform: translate(0px, -15px);
+    }
+    60% {
+        -moz-transform: translate(0px, 0px);
+    }
+    75% {
+        -moz-transform: translate(0px, -5px);
+    }
+    100% {
+        -moz-transform: translate(0px, 0px);
+    }
+}
+
+@-webkit-keyframes jumpFrames {
+    0% {
+        -webkit-transform: translate(0px, 0px);
+    }
+    15% {
+        -webkit-transform: translate(0px, -25px);
+    }
+    30% {
+        -webkit-transform: translate(0px, 0px);
+    }
+    45% {
+        -webkit-transform: translate(0px, -15px);
+    }
+    60% {
+        -webkit-transform: translate(0px, 0px);
+    }
+    75% {
+        -webkit-transform: translate(0px, -5px);
+    }
+    100% {
+        -webkit-transform: translate(0px, 0px);
+    }
+}
+
+@-o-keyframes jumpFrames {
+    0% {
+        -o-transform: translate(0px, 0px);
+    }
+    15% {
+        -o-transform: translate(0px, -25px);
+    }
+    30% {
+        -o-transform: translate(0px, 0px);
+    }
+    45% {
+        -o-transform: translate(0px, -15px);
+    }
+    60% {
+        -o-transform: translate(0px, 0px);
+    }
+    75% {
+        -o-transform: translate(0px, -5px);
+    }
+    100% {
+        -o-transform: translate(0px, 0px);
+    }
+}
+
+@-ms-keyframes jumpFrames {
+    0% {
+        -ms-transform: translate(0px, 0px);
+    }
+    15% {
+        -ms-transform: translate(0px, -25px);
+    }
+    30% {
+        -ms-transform: translate(0px, 0px);
+    }
+    45% {
+        -ms-transform: translate(0px, -15px);
+    }
+    60% {
+        -ms-transform: translate(0px, 0px);
+    }
+    75% {
+        -ms-transform: translate(0px, -5px);
+    }
+    100% {
+        -ms-transform: translate(0px, 0px);
+    }
+}

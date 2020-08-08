@@ -1,7 +1,19 @@
 <?php
 /*
+* -------------------------------------------------------------------------------------
+* @author: O2Movies
+*.@ThemeURI: https://github.com/PraveenDhakad/O2Movies
+* @authorURI: https://PraveenDhakad.com/
+* @License: General Public License
+* -------------------------------------------------------------------------------------
+*
+* @since 0.0.1
+*
+*/
+/*
 Template Name: DT - Account page
 */
+
 
 
 if(!current_user_can('subscriber') OR doo_is_true('permits','eusr') == true) {

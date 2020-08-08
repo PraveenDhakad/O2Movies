@@ -1,12 +1,14 @@
 <?php
 /*
-* ----------------------------------------------------
-* @author: Doothemes
-* @author URI: https://doothemes.com/
-* @copyright: (c) 2018 Doothemes. All rights reserved
-* ----------------------------------------------------
-**************
-* @since 2.1.8
+* -------------------------------------------------------------------------------------
+* @author: O2Movies
+*.@ThemeURI: https://github.com/PraveenDhakad/O2Movies
+* @authorURI: https://PraveenDhakad.com/
+* @License: General Public License
+* -------------------------------------------------------------------------------------
+*
+* @since 0.0.1
+*
 */
 
 if(!class_exists('DooAds')){

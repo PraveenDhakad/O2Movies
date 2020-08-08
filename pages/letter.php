@@ -1,4 +1,16 @@
 
+/*
+* -------------------------------------------------------------------------------------
+* @author: O2Movies
+*.@ThemeURI: https://github.com/PraveenDhakad/O2Movies
+* @authorURI: https://PraveenDhakad.com/
+* @License: General Public License
+* -------------------------------------------------------------------------------------
+*
+* @since 0.0.1
+*
+*/
+
 <div id="archive-content" class="animation-2 items">
 <?php get_template_part('inc/parts/modules/letter'); ?>
 <?php if (have_posts()) : while (have_posts()) : the_post(); get_template_part('inc/parts/item'); endwhile; else: ?>

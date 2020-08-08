@@ -1,3 +1,15 @@
+/*
+* -------------------------------------------------------------------------------------
+* @author: O2Movies
+*.@ThemeURI: https://github.com/PraveenDhakad/O2Movies
+* @authorURI: https://PraveenDhakad.com/
+* @License: General Public License
+* -------------------------------------------------------------------------------------
+*
+* @since 0.0.1
+*
+*/
+
 <header>
 	<h1><?php _d('Results found:');  ?> <?php echo get_search_query(); ?></h1> 
 </header>

@@ -1,15 +1,15 @@
 <?php
 /*
 * -------------------------------------------------------------------------------------
-* @author: Doothemes
-* @author URI: https://doothemes.com/
-* @copyright: (c) 2018 Doothemes. All rights reserved
+* @author: O2Movies
+*.@ThemeURI: https://github.com/PraveenDhakad/O2Movies
+* @authorURI: https://PraveenDhakad.com/
+* @License: General Public License
 * -------------------------------------------------------------------------------------
 *
-* @since 2.1.3
+* @since 0.0.1
 *
 */
-
 if(post_password_required()){
 	return;
 }

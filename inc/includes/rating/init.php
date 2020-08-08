@@ -1,12 +1,13 @@
 <?php
 /*
 * -------------------------------------------------------------------------------------
-* @author: AppThemes
-* @author URI: https://marketplace.appthemes.com/plugins/starstruck/
-* @copyright: (c) 2017 AppThemes. All rights reserved
+* @author: O2Movies
+*.@ThemeURI: https://github.com/PraveenDhakad/O2Movies
+* @authorURI: https://PraveenDhakad.com/
+* @License: General Public License
 * -------------------------------------------------------------------------------------
 *
-* @since 1.2.0
+* @since 0.0.1
 *
 */
 define('STARSTRUCK_VERSION', '10.0.0.0');

@@ -1,12 +1,13 @@
 <?php
-/* 
+/*
 * -------------------------------------------------------------------------------------
-* @author: Google reCAPTCHA
-* @author URI: https://www.google.com/recaptcha/
-* @copyright: (c) 2017 Google. All rights reserved
+* @author: O2Movies
+*.@ThemeURI: https://github.com/PraveenDhakad/O2Movies
+* @authorURI: https://PraveenDhakad.com/
+* @License: General Public License
 * -------------------------------------------------------------------------------------
 *
-* @since 2.1.3
+* @since 0.0.1
 *
 */
 class ReCaptchaResponse {
